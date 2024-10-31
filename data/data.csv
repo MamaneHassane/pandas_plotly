@@ -1,0 +1,1001 @@
+first_name,last_name,email,date_of_birth,salary,field,sex,languages_know,answer
+hassane,mamane,hassanemmn@gmail.com,16/02/2001,12000,Data & IA,M,"python,java,c_sharp",True
+sara,tamami,sara@gmail.com,21/03/2001,9700,Software engineering,F,"python,R,c++",False
+francis,eustler,francisestl@gmail.com,30/07/2002,9500,Literature,M,"php,java,c",False
+laura,chavez,laura@gmail.com,14/10/2003,11000,Art,F,,True
+Elizabeth,Taylor,alexanderraymond@garcia.info,22/11/2000,8923,Science,F,"R,c_sharp,c",False
+Mary,Callahan,dpennington@bean.com,28/02/2005,8514,Finance,F,java,True
+Daniel,Smith,patricia14@luna.info,15/07/1994,11703,Art,F,python,True
+James,Vasquez,solisanne@elliott.net,24/07/2000,11131,Literature,M,"c++,java,php",False
+Laura,Hardy,ramirezjoy@mcdowell.info,01/08/2001,9183,Literature,M,"php,c_sharp,c++",True
+Cody,Smith,farrelljeffrey@hotmail.com,28/09/2000,8723,Data & IA,F,c_sharp,True
+Tami,Fields,timothy08@mcguire.com,15/04/2002,14079,Science,M,,False
+Priscilla,Cox,frostmelissa@gmail.com,05/04/1996,10225,Data & IA,F,java,True
+Colleen,Underwood,richard38@may-hernandez.com,04/10/2002,14714,Software engineering,F,"R,java,php",False
+Jacob,Wolf,vrussell@huynh.com,21/11/1999,10774,Literature,F,php,False
+Arthur,Jones,michael79@espinoza.com,23/04/1996,11309,Art,M,php,True
+Scott,Smith,iproctor@yahoo.com,05/08/2005,14712,Finance,F,"c_sharp,c",True
+Robert,Booker,njames@hotmail.com,20/02/2004,10856,Art,M,"python,php,c_sharp",True
+Ryan,Petersen,brett78@yahoo.com,18/07/2006,8047,Finance,M,"java,c++,c_sharp",True
+Tiffany,Miller,richard86@gmail.com,26/06/2000,14970,Software engineering,M,,True
+Danny,Orozco,davidthomas@lane.info,22/05/2005,9393,Marketing,M,"c,R,c++",True
+Tanner,Carroll,rebeccahayes@hayes.biz,02/10/1996,13331,Literature,F,"c_sharp,java",False
+Samuel,Diaz,debrahamilton@yahoo.com,24/03/1996,8605,Data & IA,F,"c_sharp,R,c",True
+Nicole,Michael,pmontoya@howard-lloyd.com,21/06/1995,12046,Marketing,F,python,True
+Allison,Lopez,peter20@phillips.biz,09/08/2005,13410,Literature,F,"python,c",True
+Melissa,Krueger,vwilliams@obrien.org,13/03/1999,12845,Science,F,,False
+James,Scott,uperkins@hotmail.com,23/05/2000,14535,Literature,F,,True
+Sandra,Richards,qwerner@mcguire.org,11/11/2001,13116,Software engineering,F,"R,c_sharp,python",True
+Michael,Curry,michellerobinson@yahoo.com,26/10/2005,10853,Science,F,"R,php,c",True
+Stacy,Hardy,josephwilliams@hotmail.com,01/05/1994,9659,Software engineering,M,"python,c",False
+Laurie,Curry,natalie11@gmail.com,14/05/2003,13035,Science,M,"c++,php,java",False
+Joseph,Hays,lindsaydurham@hotmail.com,13/08/1996,10309,Software engineering,F,"c,python,c++",True
+Chelsea,Stone,arellanotonya@hotmail.com,01/04/2000,8650,Data & IA,M,R,True
+Tina,Nguyen,reyesteresa@klein.com,03/12/1999,10546,Literature,F,"java,R",True
+Zachary,Scott,ifuller@charles-mcdaniel.org,05/06/2005,14032,Software engineering,F,"c,c++,php",False
+Robert,Petty,flynnrebecca@lee.com,26/10/2005,14804,Software engineering,F,"c,R",False
+Debra,Diaz,phillipsstephanie@gmail.com,17/01/2006,8305,Marketing,F,,False
+Charles,Foster,thomasrobinson@yahoo.com,16/02/1997,10433,Marketing,F,"java,python",False
+Dakota,Brown,vanessawolf@johnson-roth.com,01/03/1999,14489,Data & IA,M,,False
+Jeffrey,Lopez,smithscott@davis.com,24/10/2002,10965,Literature,M,,False
+James,Carson,teresa35@scott.biz,01/06/1994,14109,Art,M,c,True
+Ruben,Gonzalez,mark46@gmail.com,19/04/1997,11028,Marketing,M,"c++,php",False
+Jessica,Webb,cardenasmichael@novak.com,23/12/2003,10299,Marketing,M,,False
+April,Erickson,pbarnes@ibarra.com,04/08/2004,14003,Software engineering,F,"c++,python,php",False
+Alfred,Gonzales,christopherstrong@wagner.org,13/04/2000,9089,Science,M,java,True
+Mark,Walter,brian07@ryan-moody.com,30/09/2002,14897,Software engineering,M,java,True
+John,Schaefer,whall@yahoo.com,21/07/1998,11415,Art,M,"c,python,R",False
+Phyllis,Dean,vvargas@gmail.com,14/11/2001,11457,Software engineering,F,R,True
+Amy,Moon,christopherbrown@gmail.com,24/03/2002,14766,Literature,M,"R,python,php",True
+Tricia,Hansen,ramoskatrina@marsh.com,18/07/1998,8940,Data & IA,F,,True
+Diana,Meyers,hannagary@baker.com,21/09/1996,10601,Science,F,"python,c",False
+Christopher,Rivera,tracybartlett@johnson-bishop.org,27/04/2002,11532,Literature,F,R,True
+Heather,Howard,jessica93@gmail.com,15/08/1994,9077,Literature,F,"c_sharp,c",True
+Catherine,Baker,chase96@rogers.com,17/06/2001,9517,Marketing,F,"c++,java",True
+Kristin,Taylor,matthewbrown@mendoza-gonzales.org,19/02/1997,12836,Literature,F,python,True
+Amanda,Schultz,sanchezmeredith@jones-wells.biz,12/10/2001,10888,Science,M,"R,php",True
+Nicole,Shaw,beckeralyssa@berry.com,30/05/2003,13882,Science,F,"php,java,R",False
+Crystal,Frost,karen35@yahoo.com,14/07/2000,10653,Literature,F,"php,c",True
+Marcia,Moore,steveacosta@snow.net,20/10/1994,12288,Data & IA,M,"java,c_sharp",True
+Daniel,Smith,mary27@yahoo.com,14/01/1996,9021,Software engineering,F,c_sharp,True
+Frederick,Anderson,cochranerin@gmail.com,07/03/1996,9693,Marketing,F,,False
+Michelle,Kennedy,janice61@mason.com,08/10/1997,8110,Science,F,java,True
+Jerry,Palmer,elizabethwilliams@herrera.net,17/10/2000,10174,Finance,M,c_sharp,True
+Paula,Yates,qvalenzuela@davis.org,12/09/2004,10568,Marketing,F,,False
+Holly,Taylor,michael43@hotmail.com,04/12/2005,9527,Science,M,"c_sharp,php,c",True
+Kevin,White,uhunter@hotmail.com,29/07/1994,8659,Finance,M,,False
+Samantha,Perry,johnsonjames@rubio-jones.com,28/02/1996,11312,Literature,M,"python,R",True
+William,Donovan,woodcharles@hotmail.com,04/11/1999,13781,Marketing,F,"c_sharp,java,c",True
+Edward,Miller,cruzjeffrey@martin.com,21/09/2005,11105,Data & IA,F,"c_sharp,c,python",False
+Anne,Murphy,fernando30@harris.net,07/03/2002,9334,Science,F,java,False
+Anthony,Ballard,wellsdavid@stewart.com,01/07/2000,11570,Data & IA,F,"python,R,php",False
+Dawn,Thomas,oaguilar@gmail.com,02/01/2004,14474,Software engineering,F,python,True
+Morgan,Kline,wardrenee@palmer.net,30/03/1999,14260,Software engineering,F,"java,python",False
+Diane,Lowe,stephanie71@rhodes-williams.com,13/01/2000,9628,Science,F,"php,c",True
+Sarah,Coleman,mbaker@hotmail.com,14/05/2004,8954,Finance,M,,True
+Jennifer,Lewis,hgreen@hotmail.com,31/03/2004,9955,Finance,F,,False
+Victor,Moyer,jacksonphilip@hotmail.com,28/03/1997,8012,Finance,M,"c,c++",False
+Kim,Wilson,tammyroach@yahoo.com,05/08/1997,10953,Literature,M,c++,True
+Joseph,Lutz,yolandatorres@gmail.com,09/01/2001,14195,Data & IA,M,,False
+Ashley,Frederick,ashley04@roach.net,08/09/2001,11293,Finance,M,,False
+Glenn,Greene,dorothy11@gmail.com,06/03/1996,13075,Literature,F,,False
+Taylor,Beasley,baileykatie@hotmail.com,07/10/2006,9741,Literature,F,c,True
+Laura,Wilkerson,crystal94@yahoo.com,18/03/1998,12585,Art,F,"php,python",False
+Beth,Munoz,cwilson@cunningham-evans.com,02/09/1997,10383,Finance,F,c,True
+Lisa,Lee,johnryan@yahoo.com,05/04/2000,14184,Science,M,"python,R",False
+Sean,Foley,kellymills@hill-lowe.com,27/05/2003,8458,Finance,M,c_sharp,True
+John,Shaffer,michelle86@hotmail.com,15/03/1999,10263,Art,M,"c_sharp,python,c",True
+Brian,Diaz,timothyhall@russell.info,23/08/1994,14192,Marketing,F,java,False
+Brian,Benson,scottgarcia@hotmail.com,14/01/1994,9696,Data & IA,M,"c++,c_sharp,php",False
+Alexis,Hoffman,debra48@foley.com,26/11/1997,10060,Finance,F,"php,java",True
+Bernard,Matthews,vanessamills@yahoo.com,19/02/1998,13160,Science,F,"R,java,php",False
+Michael,Contreras,jamesweeks@gmail.com,10/03/1994,11667,Finance,F,R,False
+Barbara,Dunn,eanderson@hotmail.com,13/09/1995,13928,Finance,F,"python,c,c_sharp",True
+Dwayne,Brown,raymond51@chang.com,03/02/2000,14697,Art,F,"python,c_sharp",False
+Julia,Wright,jgutierrez@hotmail.com,12/03/2000,8626,Science,F,"python,java",True
+Katherine,Young,tjones@blankenship-wheeler.com,31/08/2003,12679,Literature,F,R,False
+Alex,Bryant,xhorton@hotmail.com,19/12/1997,14976,Marketing,M,,True
+Austin,Daniel,dsantos@woods.com,17/04/2003,9019,Finance,F,c++,False
+Larry,Luna,glenn12@yahoo.com,16/02/2000,8458,Finance,F,"python,c,java",False
+Mathew,Price,stevenwolfe@yahoo.com,12/10/2006,9394,Art,F,"c++,c",True
+Lisa,Ho,petersnicholas@bond.net,06/05/2004,9059,Literature,F,python,True
+Carlos,Mason,april87@vargas.biz,04/10/2005,11681,Literature,F,"c++,R,python",False
+Cathy,Guerrero,johnsonmatthew@robinson.info,10/11/2000,10843,Finance,F,"c_sharp,c,R",True
+Denise,Williams,kathryn43@wilson.com,02/11/2003,13410,Data & IA,F,"python,c",True
+James,Mills,jessesilva@brown.biz,14/11/1996,9396,Literature,M,"java,python,c++",True
+Samantha,Sandoval,richard82@pope.com,26/11/2001,10876,Software engineering,F,"c,R",False
+Julie,Perry,brettbean@hotmail.com,19/05/1995,11782,Art,M,,True
+Brittany,Hudson,daniel04@watson.com,23/03/1995,8534,Science,M,"c,java,R",False
+Kelly,Nash,colemanrickey@hotmail.com,17/11/2003,9249,Marketing,F,"R,python,php",False
+Joshua,Villegas,stephanie22@arnold.com,12/07/1995,9508,Art,M,"R,c_sharp,python",False
+Erika,Hall,angela74@yahoo.com,02/11/2003,12996,Literature,M,"c++,php,python",True
+Alexander,Burgess,michael85@gmail.com,02/10/2003,11546,Software engineering,M,c++,True
+Nathan,Salazar,paulbriggs@rice.com,26/11/1999,10509,Literature,F,,False
+Rebecca,Oliver,laneheather@morris.com,20/12/1993,8759,Marketing,F,,True
+Jared,Gibson,timothydiaz@ortiz-kennedy.com,04/01/2003,8031,Software engineering,F,"c,c++",False
+Doris,Jenkins,wilsoncheryl@mccormick.com,24/07/2005,14546,Science,F,"java,php,R",True
+Gregory,Cline,turnermichelle@gmail.com,19/03/1994,13425,Data & IA,M,"python,php,R",False
+Brianna,Cisneros,jessicamiller@yahoo.com,16/09/2002,12823,Art,F,"php,c",True
+Zachary,Sandoval,perezcraig@hotmail.com,25/12/1998,10265,Data & IA,F,,False
+Angela,Miller,eric46@hotmail.com,08/09/1996,8987,Science,M,"php,c++,c_sharp",True
+Kristi,Robertson,leacheric@meyer.com,23/08/1996,8806,Literature,M,python,False
+Sarah,Adams,rlopez@hotmail.com,06/03/2002,14870,Literature,F,,True
+Anthony,Love,kristengordon@yahoo.com,03/02/2004,11481,Science,M,python,False
+Kathy,Carroll,angela88@nunez-wang.com,24/05/1997,14006,Marketing,F,"java,python,php",False
+Victoria,Stephenson,tonya42@hotmail.com,05/01/1999,11768,Literature,M,,False
+Mary,Galloway,julie03@hotmail.com,21/05/1995,10447,Literature,M,"python,R",True
+Kelly,Park,mprice@yahoo.com,18/03/2001,9438,Data & IA,F,"R,c++,python",False
+Amy,Hall,cbuck@yahoo.com,13/02/2005,11787,Data & IA,F,,True
+Chelsea,Ochoa,stewartshaun@dean.com,15/09/1999,13192,Science,F,"java,c++,c_sharp",True
+Catherine,Thompson,cobbtodd@golden-taylor.com,09/10/2003,10985,Marketing,F,R,False
+Sara,Mcintyre,njones@walker.com,09/04/2000,12018,Marketing,F,,False
+Betty,Cruz,andrew59@yahoo.com,17/02/1994,8389,Marketing,F,,False
+Michael,Jarvis,larrylynch@yahoo.com,27/06/1994,9995,Software engineering,F,"R,php",True
+Douglas,Henry,vincent65@brooks-logan.com,13/06/1997,12634,Data & IA,M,,False
+James,Powell,amberhanson@yahoo.com,10/12/1996,14765,Science,M,"c_sharp,python,c++",True
+Denise,Jefferson,rebeccarogers@gmail.com,15/11/2000,14775,Software engineering,M,"php,python,c_sharp",False
+James,Johnson,vgoodman@gmail.com,25/09/1995,12590,Software engineering,M,"c_sharp,c++",True
+James,Garza,kaitlynjohnson@dean.com,01/05/2004,13783,Data & IA,M,,False
+Robert,Watkins,claudia36@hotmail.com,14/09/1994,14560,Finance,F,c_sharp,True
+Kimberly,West,imiller@gmail.com,24/09/1994,14023,Literature,F,,True
+Matthew,Holland,scharles@gmail.com,14/12/2005,14312,Software engineering,M,java,False
+Dean,Chen,ipayne@henry-mcdowell.net,16/01/2001,12682,Marketing,M,,True
+Ryan,Pham,melissadonovan@lambert-luna.com,19/06/1996,8001,Science,M,"c,c_sharp",True
+Tara,Butler,colonsara@gutierrez.com,19/07/1994,12225,Software engineering,M,php,True
+Andrew,Mathis,wardmary@gmail.com,27/01/2001,12188,Finance,M,,False
+Alexa,Mcgrath,christian60@anderson-greene.com,11/08/2000,13316,Finance,M,c_sharp,True
+Kevin,Church,taylorjoseph@armstrong.com,26/02/2000,8305,Software engineering,M,"java,c_sharp",True
+Chelsea,Mclaughlin,lwright@morton.biz,20/07/2003,10370,Science,F,,True
+Susan,Burton,ijohnson@russell-james.org,13/05/2000,9508,Data & IA,F,,True
+Elizabeth,Perry,tfitzgerald@gmail.com,27/11/1993,8959,Science,M,python,True
+Michael,Nichols,hubbardmonica@bradford.com,14/09/2005,9923,Literature,F,"python,c_sharp,java",False
+Tina,Hicks,kjones@yahoo.com,27/01/2000,11999,Science,F,"php,c_sharp,R",True
+John,Cole,hgrant@hotmail.com,06/07/2005,14095,Finance,F,"c_sharp,c",False
+Jonathan,Crane,joseph11@hotmail.com,05/08/1999,12643,Marketing,M,,True
+Jeffrey,Martinez,hoodbrett@campbell.com,10/04/1995,10093,Marketing,F,,True
+Caleb,Wilson,michael75@gmail.com,18/09/1998,13816,Finance,F,,True
+Frank,Bailey,kimberlyclark@yahoo.com,14/04/1995,8936,Software engineering,F,c,True
+Cassandra,Ingram,daniel59@yahoo.com,06/08/2006,12394,Art,F,"php,c++,R",True
+Julie,Weiss,tanyaayala@gmail.com,22/07/2002,9296,Data & IA,F,"c++,R",True
+Danielle,Clarke,cynthiamiller@yahoo.com,10/09/1999,14248,Data & IA,M,,True
+Lori,Beck,cjensen@hutchinson-brennan.com,25/01/2000,11983,Marketing,F,"R,c",True
+Courtney,Bailey,halegeorge@taylor.org,26/06/2004,11236,Art,F,R,False
+Marcus,Johnston,angelagarcia@yahoo.com,18/07/1999,9763,Marketing,M,R,False
+Beth,Bryant,luis31@mcmillan.biz,06/08/2002,12880,Marketing,F,c,True
+Ryan,Walker,cford@carroll.info,12/01/1995,10577,Data & IA,F,c++,False
+Joshua,Jones,joseph25@webb-myers.com,29/06/2005,9415,Software engineering,M,,True
+William,Hamilton,samuel22@yahoo.com,19/10/1999,8509,Literature,M,java,True
+Jordan,Chavez,kevin51@yahoo.com,12/07/2004,12658,Marketing,F,,True
+Roy,Perkins,sarah20@hotmail.com,26/10/2002,9464,Literature,M,,False
+Christopher,Jenkins,fcraig@martin.com,15/08/2006,14466,Literature,F,"c++,c",False
+Kristina,Taylor,hannah74@hart.info,11/10/1998,12308,Marketing,M,php,False
+Jennifer,Barnett,palmerangela@yahoo.com,20/04/1998,10323,Science,F,"php,c",True
+Ian,Newman,catherinevaldez@smith.info,30/09/1994,10560,Science,M,"c++,c",False
+Cheryl,Fisher,thomasjenkins@murray-chen.org,24/11/2005,10866,Art,F,java,True
+Michelle,Smith,jose39@gmail.com,12/12/1994,8033,Literature,M,,True
+Eric,Foster,cameron30@gonzalez-lucero.com,30/04/2000,9240,Science,F,"c++,c",False
+Eric,Griffin,bcruz@gmail.com,19/05/2001,13762,Software engineering,F,"php,c_sharp,python",True
+Elizabeth,Henry,gdawson@norman.com,06/01/2005,11185,Finance,M,"python,c,java",False
+Ashley,Hale,hutchinsonbrandon@hotmail.com,09/08/2006,9729,Literature,M,"python,R",True
+Christina,Weber,sandra61@hodges.info,20/09/1996,8800,Art,M,"R,python",False
+Lori,Morgan,stephanie37@richards.com,21/10/2000,13960,Data & IA,M,"python,c++",True
+Timothy,Oliver,ralphturner@yahoo.com,06/08/2003,11861,Marketing,M,"R,c,python",True
+David,Potts,mmora@hotmail.com,21/01/2002,12546,Science,F,php,False
+Melanie,Brandt,juliesalazar@ramirez-christensen.info,04/04/1995,8286,Finance,F,c,False
+Gregory,Phillips,kjones@gmail.com,03/09/1999,10140,Software engineering,F,"c_sharp,php,python",False
+Monica,Rodriguez,upatrick@yahoo.com,10/10/2002,13662,Art,F,,True
+Sheri,Morales,montoyajohn@yahoo.com,27/09/1998,12210,Literature,F,"java,c++,php",False
+James,Smith,jamesdunlap@reese.com,09/09/2001,9764,Software engineering,M,,False
+Francisco,Cruz,whernandez@williamson-larson.com,02/08/2002,14782,Software engineering,M,php,False
+Kevin,Maddox,janice59@johnson.com,29/11/1994,12967,Software engineering,M,"c++,java",True
+Todd,Bush,holmesjessica@dixon.com,04/02/2001,8220,Art,F,"c++,python",True
+Abigail,Gordon,thomasjeremy@blackburn-morrison.com,17/04/1997,11012,Marketing,F,"java,c_sharp",True
+Rebekah,Lewis,larsonmichael@gmail.com,28/01/1996,13858,Finance,F,c_sharp,False
+Denise,Dickson,coreyjuarez@hotmail.com,06/12/2002,10825,Art,F,,True
+James,Hanson,ojones@yahoo.com,20/10/2002,12345,Software engineering,M,,True
+Peter,Lewis,wellssara@yahoo.com,02/06/2005,8507,Art,M,python,True
+William,Gomez,edwardanderson@gmail.com,19/04/1997,9097,Data & IA,M,R,False
+Anthony,Reilly,smithgregory@bryant.biz,30/06/2002,9124,Science,M,,True
+Stephanie,Lamb,marypatton@yahoo.com,15/01/2000,9507,Data & IA,F,c++,False
+Donald,Salazar,eross@collins.com,10/07/2000,9269,Art,M,R,False
+David,Campos,barbara39@gmail.com,01/02/2006,9629,Marketing,F,"java,python",False
+Henry,Anderson,hayesmary@gmail.com,17/10/2005,11413,Science,F,"c,c++,java",True
+Kenneth,White,roblesmatthew@hotmail.com,23/05/1998,8492,Art,M,"R,c++,java",True
+Alexis,Carter,colechristopher@silva.com,15/03/2005,12774,Science,F,"c++,c_sharp,java",False
+Gregory,Thomas,ronaldbaxter@gmail.com,07/05/2000,13747,Marketing,M,"R,c,c_sharp",True
+Kenneth,Bates,wrightjessica@nunez.com,15/11/2001,10097,Literature,F,"java,c++,php",True
+Debra,Brooks,daltonpamela@hughes.com,05/09/1997,10272,Art,F,"php,R",False
+Kayla,Anderson,howardallison@hotmail.com,17/10/2005,11376,Art,F,c_sharp,True
+Peter,Farmer,rachelgrant@yahoo.com,16/10/1995,9637,Data & IA,F,"c_sharp,R",False
+Carol,Smith,ramirezkathy@hotmail.com,27/04/1997,8475,Literature,F,"java,python",True
+Sharon,Williams,tking@hotmail.com,17/06/1994,9898,Art,M,"c_sharp,c,php",False
+Robert,Evans,yboyd@gmail.com,13/12/2003,10286,Science,M,c,False
+Elizabeth,Patel,loganporter@gmail.com,06/02/1999,13612,Software engineering,F,,False
+Sarah,Mason,sabrina86@lopez.com,09/09/2006,14423,Marketing,M,java,False
+Christopher,Carpenter,heather45@walker-martinez.org,05/03/1998,9169,Finance,M,"R,c_sharp,c++",True
+Zachary,Phillips,jose07@anderson.com,28/04/2002,11781,Literature,F,"c_sharp,R",False
+Johnny,Boyd,dhunt@evans.info,03/10/1999,13040,Finance,M,java,True
+Karen,Williams,veronica48@yahoo.com,23/07/1995,9367,Literature,F,"R,python,java",False
+Samantha,Johnson,bucksarah@strickland.org,24/05/2006,11994,Finance,F,,True
+Hannah,Davis,underwoodfrancisco@gmail.com,09/06/2001,14307,Finance,M,,True
+Kevin,Salinas,zsutton@gmail.com,21/07/1997,8351,Finance,M,,True
+Jamie,Reed,robert70@thornton-rivera.com,31/08/2001,9794,Science,M,"java,R",True
+Taylor,Burgess,elizabeth39@gmail.com,04/11/2005,9632,Software engineering,F,,False
+Emily,Beasley,davealexander@hotmail.com,07/04/1997,14953,Literature,F,,True
+Michelle,Allison,christophercox@yahoo.com,18/06/1998,13901,Data & IA,M,c,True
+Johnny,Alexander,vegacheyenne@holt.com,30/05/2001,11397,Software engineering,F,c++,True
+Todd,Nelson,mcintoshmatthew@cook-valencia.com,15/06/2005,14416,Art,F,python,True
+Lindsey,Campbell,hmyers@hunt-bentley.com,11/07/1998,8516,Literature,F,"c++,R,python",False
+Joy,Gonzalez,emills@mitchell-campbell.org,05/04/2000,11631,Art,F,"c,c++,python",False
+Rodney,Johnson,jpatrick@gmail.com,10/03/1995,11434,Science,M,"java,c_sharp",False
+Mark,Vega,amanda35@sanders-jackson.com,10/10/2006,14501,Finance,F,"c_sharp,R",False
+Nancy,Taylor,etaylor@hotmail.com,10/04/2003,11678,Data & IA,M,,False
+Richard,Johnson,hilllouis@hotmail.com,25/08/2001,11239,Science,M,java,True
+Bridget,Murray,nhanson@hotmail.com,28/10/1998,10951,Marketing,M,R,False
+Erik,Hawkins,dray@yahoo.com,12/06/2003,12121,Software engineering,M,"php,R,c",False
+Christine,Boyd,mccarthysharon@english-moore.net,24/09/1995,13127,Finance,F,,False
+Brianna,Ryan,patriciaharding@hotmail.com,07/02/1994,11846,Art,F,"java,php",False
+Lisa,Wilkinson,nicolehebert@fitzgerald.biz,25/05/2000,11916,Science,M,,True
+Alfred,Salinas,amandamitchell@vaughan.com,29/10/2000,13591,Software engineering,F,,True
+Stephanie,Johnson,michael01@gmail.com,10/09/2003,8646,Marketing,F,"php,R,java",True
+Cathy,Smith,kevin39@huffman.com,06/09/2001,13989,Software engineering,F,"python,R,c++",True
+Steven,Miller,karenmclean@parker-bond.com,22/11/2000,13585,Literature,M,R,False
+Shannon,Woods,qballard@williams-pena.com,07/01/1999,9623,Science,M,"R,php,python",False
+Justin,Garcia,ajames@hotmail.com,04/09/1994,14065,Software engineering,F,c,True
+Patricia,Hanson,jeanettewilliamson@hotmail.com,28/02/2004,8172,Literature,M,"c,python",True
+Heather,Williams,ithomas@hotmail.com,11/03/2005,13375,Marketing,M,c,True
+Stephanie,Vincent,cabrerajohn@yahoo.com,29/08/2002,9655,Finance,M,php,True
+Michael,Wu,cchung@hotmail.com,04/07/2000,10361,Finance,F,,True
+Adrienne,Hall,orrpedro@barrett-faulkner.org,22/08/2004,11169,Art,F,"java,php,c",True
+Adam,Combs,uharrell@mcdonald.info,27/09/1998,9024,Marketing,F,,True
+Paul,Burns,conneremily@gmail.com,20/11/2005,14832,Literature,M,"python,php,java",True
+Ronald,Ross,xrobbins@harvey.biz,22/05/2006,12639,Marketing,M,,True
+Corey,Terry,lproctor@webb.com,07/11/2005,10259,Literature,F,"python,c_sharp,c",True
+Madison,Padilla,brewernathaniel@hotmail.com,24/04/2000,12126,Marketing,M,"java,R",True
+Elaine,Long,jennifer30@shaw.org,24/08/2000,10307,Software engineering,F,"java,php,python",False
+Chad,Wright,rebecca83@nelson.biz,09/12/1998,8280,Software engineering,M,"c++,java,python",True
+Emma,Williamson,foxchad@gmail.com,30/05/2002,9417,Marketing,M,"R,python,c++",False
+Kathy,Ward,meghanpeterson@yahoo.com,01/07/1994,9057,Data & IA,M,"c++,java,php",False
+Robert,Garrett,sarah79@hotmail.com,10/02/1996,11428,Art,F,c,True
+Michelle,Simon,littleralph@knox-bauer.info,08/02/1995,11314,Science,F,"R,python,php",False
+Kelly,Padilla,steeleamy@hotmail.com,24/03/2002,11950,Art,M,,False
+John,Turner,qgallegos@hotmail.com,19/04/1999,12749,Marketing,M,php,True
+Steven,Stark,stewartariana@galvan.biz,27/03/1995,11906,Data & IA,M,python,True
+Julie,Ritter,gloriali@andrade.org,16/10/2002,13613,Data & IA,F,c,False
+Rachel,Wright,alvarezlori@gmail.com,03/08/1994,9268,Art,M,,True
+Frederick,Hammond,rherring@hotmail.com,03/04/2003,9244,Art,F,,True
+George,Hanson,kevinray@yahoo.com,29/04/1994,8923,Marketing,F,c_sharp,True
+Shannon,Roy,lunamichelle@yahoo.com,25/07/2004,12969,Marketing,M,"R,python",True
+Jaclyn,Rivera,michaelwilson@hotmail.com,19/02/2004,12342,Marketing,F,R,True
+Noah,Wise,jeffrey04@yahoo.com,01/03/1994,12451,Art,M,"c++,python,java",False
+Erica,Fox,rebeccaduncan@barnett-cannon.com,19/10/2002,11444,Science,M,python,True
+Joanna,Chapman,robert98@yahoo.com,30/10/2004,13162,Science,F,"java,php",True
+Lauren,Jones,bonniemcgee@gmail.com,11/07/2000,10972,Software engineering,F,"c_sharp,c++,java",True
+Grace,Stewart,hartmandaniel@yahoo.com,04/11/1998,13493,Software engineering,M,"R,php,c_sharp",False
+Amanda,Harper,linda38@gmail.com,19/04/2002,14802,Science,F,"R,python",False
+Jennifer,Hall,lgarcia@yang.biz,24/02/2001,13278,Literature,F,"c++,java",False
+Jacob,Weber,lsmith@hotmail.com,15/02/1999,9361,Literature,M,"R,php",True
+Lauren,Smith,holtsamantha@collins.org,14/05/1996,10096,Software engineering,F,"java,c++",True
+Toni,Miller,ronaldsanchez@snyder.com,31/01/2005,12205,Art,F,,True
+Michael,Miller,hilljennifer@velez.org,17/04/1999,12482,Science,M,php,True
+Judy,Johnson,patricia41@howard.com,09/08/2000,11236,Marketing,F,"c++,c_sharp,php",False
+Sara,Salazar,williamlawrence@yahoo.com,09/09/1996,8088,Software engineering,F,python,False
+Sandra,Garner,smithadam@wright-hill.com,16/02/2006,13725,Software engineering,M,"c++,c_sharp,c",False
+Amber,Williams,wgreen@white.org,05/11/1994,14337,Literature,F,"c_sharp,php,python",False
+Sheena,Valdez,lindsaymurphy@yahoo.com,14/12/1998,8091,Marketing,M,c,True
+Grace,Smith,victoriafoster@greene.net,23/03/2006,13577,Art,M,c_sharp,False
+Karla,Peterson,perkinsjocelyn@williams.com,04/04/1996,14413,Marketing,M,,True
+Melissa,Bennett,xhiggins@hotmail.com,31/05/2003,8879,Marketing,M,"php,R",False
+Bruce,Munoz,bdougherty@morgan.com,20/07/1997,10175,Art,F,"R,python,c_sharp",False
+Jessica,Bailey,jeffreyford@hotmail.com,13/07/2001,12077,Data & IA,M,"c_sharp,java,python",False
+John,Carlson,hendersonjoshua@yahoo.com,05/01/2001,12780,Art,M,"c++,c",False
+James,Walker,rwolfe@hotmail.com,01/02/1994,14636,Finance,F,"php,c++",True
+Mary,Thompson,john49@yahoo.com,02/01/1994,10365,Software engineering,M,"python,c,php",False
+Jason,Ruiz,andrea46@perkins.com,05/08/2002,11225,Literature,F,R,True
+Kayla,Hoffman,kellyfitzgerald@hotmail.com,29/03/2002,12881,Software engineering,M,"c++,python",False
+Chris,Diaz,michael22@yahoo.com,14/05/2000,10266,Data & IA,F,"php,c,R",False
+Vincent,Holland,veronica07@figueroa-prince.com,02/09/2000,14511,Marketing,M,,True
+Calvin,Knight,ocrawford@clark.info,14/11/1996,12432,Art,F,"java,c++,c",True
+Michael,Short,brian55@gmail.com,05/08/2000,10299,Literature,M,,False
+Troy,Torres,diazrodney@yahoo.com,04/04/2000,14020,Literature,M,"c,python,R",False
+John,Wall,joseph87@yahoo.com,08/05/2002,10153,Marketing,F,"R,java,php",True
+Julie,Hudson,ronald91@randolph.com,06/06/1999,8029,Finance,M,"java,c++",True
+Christopher,Sexton,jpatrick@robertson.com,13/01/2002,8992,Software engineering,M,,True
+Tracy,Lamb,jasonwalker@gmail.com,14/02/1996,13055,Art,M,"c_sharp,python",False
+Brandon,Patterson,twagner@wilson.com,21/02/1998,13144,Art,F,"c,R",True
+Justin,Alvarado,fitzpatrickmitchell@floyd.org,01/09/2001,8360,Science,F,,True
+Nicholas,Ellis,vshelton@hotmail.com,16/06/1999,13678,Finance,M,"c_sharp,c++",True
+Colin,Padilla,rogermoore@gmail.com,22/03/1998,8957,Literature,F,c_sharp,False
+Micheal,Morrison,sandra18@hotmail.com,03/06/2003,13328,Software engineering,M,"R,c_sharp",False
+Robert,Richards,bushsandra@bennett.org,27/03/2005,8035,Literature,M,"c++,R",True
+Stephanie,Vincent,garciaclifford@gmail.com,16/04/1994,12908,Marketing,F,"R,python,java",False
+Thomas,Garcia,amybutler@smith.com,02/03/2005,10226,Art,F,"c_sharp,php",True
+Vanessa,Riley,christophervargas@wang.biz,05/06/1997,12940,Science,M,python,True
+Barry,Hall,dburnett@yahoo.com,21/02/2004,8663,Science,M,"R,php",False
+Amy,Willis,shawnramirez@watson.org,13/03/1995,12015,Science,F,python,True
+Cody,Wright,katherine63@gmail.com,09/07/1994,14407,Software engineering,M,,False
+Matthew,Beck,lreynolds@jackson.info,17/02/2002,10660,Science,M,"java,R,c_sharp",True
+Victoria,Wilson,justin82@ball-spencer.com,10/05/2003,10352,Art,F,,True
+Linda,Thornton,robingonzalez@petersen.biz,14/12/1998,10198,Art,M,,True
+Elizabeth,Salinas,lkennedy@barr.com,04/10/1994,10888,Science,F,,False
+Heather,Grant,kcalhoun@alvarado.com,25/02/2003,8855,Marketing,F,c,True
+Chad,Evans,nbates@guzman.biz,02/05/2004,12681,Science,M,python,False
+Melissa,Miranda,tammy49@jones-white.org,24/04/1996,13388,Art,M,R,True
+Brandon,Hoffman,debra40@scott.com,06/08/1995,10542,Software engineering,M,java,False
+Donald,Martin,charleswilliams@gmail.com,09/09/2000,9129,Marketing,M,"java,c++,c_sharp",False
+Elizabeth,Jennings,davidyoung@brooks-davis.biz,31/08/2004,9727,Literature,F,java,True
+Jonathan,Jackson,brian72@gmail.com,14/07/1997,9946,Software engineering,M,,False
+Gabriela,Flynn,michellealvarez@hotmail.com,15/01/1994,9203,Literature,M,,True
+Jennifer,Miller,richardsonkevin@hotmail.com,04/11/2005,8014,Literature,M,"c_sharp,php,python",False
+Anne,West,christinajohnson@walker-romero.com,07/11/1993,12033,Software engineering,F,,True
+Laura,Torres,fmckinney@williams.info,25/11/2000,9456,Marketing,M,,True
+Tina,Crosby,gmoon@yahoo.com,22/10/2000,14644,Science,F,"R,c",False
+Emily,Brown,preed@yahoo.com,09/07/2006,9834,Data & IA,M,"c_sharp,c,java",True
+Ashley,Garcia,kbarrera@hotmail.com,06/10/2002,10434,Science,M,,True
+Brandon,David,tweiss@moore.com,10/10/1997,14582,Software engineering,F,"php,java,R",True
+Anthony,Malone,smithbilly@drake-hernandez.com,28/08/2000,12435,Science,M,"c++,c_sharp,php",False
+Barbara,Rich,hamiltoncourtney@gmail.com,20/05/2001,8573,Literature,M,"python,c_sharp,R",True
+Christina,Sanders,gsullivan@roberts.com,12/03/2003,11679,Literature,M,"python,R,c",False
+Brent,Mitchell,qlee@baird-villegas.biz,22/09/1996,14850,Marketing,M,"c_sharp,python,c",True
+Leslie,Barry,conleynatalie@hotmail.com,05/05/1996,14413,Art,M,,True
+Daniel,Torres,sarah23@taylor-martin.biz,20/04/2005,8498,Art,M,c_sharp,True
+Austin,Moss,christopher28@hotmail.com,01/11/1998,9848,Software engineering,M,"python,c,c++",False
+Jeffrey,Huang,smithvirginia@perez.com,30/04/2000,12251,Data & IA,F,"c_sharp,php,java",False
+Andrew,Freeman,allenerika@austin-perry.biz,11/02/2004,14760,Finance,F,"java,python",True
+Karen,Lowery,douglas59@diaz-espinoza.org,24/08/2006,10108,Art,F,"c++,php,R",False
+Jeffrey,Nguyen,sarabradley@yahoo.com,03/09/2000,12549,Data & IA,F,"java,php,R",False
+Nicholas,Davis,jameshudson@lane.info,16/06/2000,14010,Science,M,"c_sharp,python",True
+Thomas,Perez,lisa76@todd.com,16/01/2004,10046,Literature,F,"c++,python",False
+Lisa,Glover,daniel33@lowe.com,19/04/2003,8350,Data & IA,M,"python,c++,c_sharp",False
+Matthew,Griffin,npatterson@turner.com,29/12/1999,10875,Art,M,"c,c_sharp,c++",False
+Alfred,Burke,andersonandrea@hotmail.com,09/04/1996,8402,Marketing,F,c++,False
+Marie,Wilson,jessica24@gmail.com,26/09/2006,8762,Marketing,F,R,False
+Victoria,Miller,reginajohnson@yahoo.com,09/07/1994,12868,Software engineering,M,,True
+James,Stewart,brownjames@hotmail.com,24/07/1995,9019,Data & IA,M,,True
+Lisa,Carey,jonathan09@michael-henderson.com,14/03/2000,10788,Literature,F,java,True
+Nancy,Smith,nicole34@yahoo.com,03/02/2006,11593,Data & IA,M,"python,php",True
+Aaron,Ellison,andersonalexander@gmail.com,13/04/2001,10176,Science,F,,True
+Amy,Barton,amiller@gmail.com,10/12/2002,14407,Literature,M,,False
+Lucas,Davidson,welchjason@hotmail.com,30/11/2005,10550,Finance,F,"php,c++,c_sharp",False
+Sean,Smith,carolyn68@gmail.com,15/11/1995,8265,Art,F,,True
+Melissa,Holland,cheryl24@hotmail.com,13/02/2005,12681,Finance,M,c,True
+Samantha,Wilson,karenrogers@hotmail.com,23/09/2003,13326,Data & IA,M,"php,java,c_sharp",True
+Kyle,Pacheco,eric97@patel.org,16/03/2006,9909,Science,M,c_sharp,True
+Preston,Smith,john14@gmail.com,11/09/2005,13452,Software engineering,F,,False
+John,Morgan,dsmith@hotmail.com,15/05/1994,9268,Literature,F,python,True
+Julie,Lowe,carterjon@yahoo.com,31/10/1994,13570,Data & IA,F,"R,c",True
+Joshua,Johnson,hendrixmichelle@gmail.com,24/02/1994,14647,Marketing,M,"c,c_sharp,python",True
+Gabrielle,Landry,lbrown@yahoo.com,18/06/1995,12807,Data & IA,M,"php,c_sharp",False
+Jane,Mayo,morenotyler@yahoo.com,26/11/1999,9075,Finance,M,,True
+David,Grimes,michael81@walker.com,21/08/1997,12276,Art,M,c,True
+Jennifer,Smith,perryjulia@glass.com,08/05/1998,12301,Marketing,M,"php,c,c_sharp",False
+Eric,Scott,alyssameyer@lewis.com,11/11/2001,12007,Finance,M,,True
+Phillip,Velez,rachel10@haney-jackson.net,06/05/1998,14882,Finance,M,,True
+Anthony,Smith,rachel51@yahoo.com,20/05/1997,8730,Software engineering,M,,False
+Sharon,Yang,waltonchristy@hill-jones.com,19/10/1998,13446,Marketing,M,,True
+Jamie,Burton,anthony16@hotmail.com,11/08/2002,11266,Art,M,"c,php,java",True
+Jennifer,Maldonado,shannon01@nixon.com,14/02/1997,10773,Marketing,F,"c_sharp,c,R",True
+Jason,Anderson,raymond01@watson.com,13/12/1993,10892,Art,M,"c_sharp,php,c",True
+Cindy,Green,johnowens@hotmail.com,16/10/2000,12158,Science,F,,True
+Angela,Pena,williamclark@brown-white.biz,21/09/2004,11610,Marketing,M,"c++,c",True
+Jennifer,Mullins,jcobb@yahoo.com,25/10/1994,11850,Finance,F,"c,php,c_sharp",False
+Heidi,Hays,kimberly66@steele-rodriguez.biz,10/07/2006,14588,Art,F,,False
+Ashley,Barron,eatonrobert@shaw.net,02/12/2005,11928,Finance,F,,True
+Kristi,Anderson,zray@johnson.com,25/06/1995,14698,Finance,F,"php,python",False
+Catherine,Molina,jennifergreene@hotmail.com,24/02/1995,10728,Art,M,c,True
+Steven,Cabrera,meganparks@gmail.com,03/11/2003,14315,Finance,F,c++,True
+Joel,Anderson,michael80@luna.net,15/09/2003,12445,Literature,M,"php,c++,c_sharp",False
+Anthony,Carter,iwilliams@hotmail.com,03/09/2004,12623,Data & IA,F,c++,False
+Justin,Stevens,lindahall@martin.net,16/02/2006,8522,Art,F,"java,c_sharp",False
+William,Thompson,hthomas@evans-davis.net,23/07/2006,10478,Art,M,"c_sharp,php,python",True
+Michelle,Miller,bradshawmichelle@alvarez.com,16/04/1994,9540,Finance,M,"python,c_sharp,c++",True
+Caitlyn,Morales,isanchez@wallace-bowen.com,08/08/2001,11727,Software engineering,M,,False
+Morgan,Miranda,jackie43@yahoo.com,30/12/2001,13556,Software engineering,M,java,True
+Kyle,Perez,johnathanford@hines.com,14/09/2004,12779,Art,M,,False
+Luis,Hansen,aellis@yahoo.com,12/06/2005,8451,Art,F,,True
+Tyler,Reese,jimenezdaniel@cruz.org,17/07/1999,10011,Marketing,F,R,False
+Oscar,Powell,nmartinez@pacheco.com,22/03/2005,11180,Science,F,,False
+Isabel,Weber,todd10@coleman.com,27/12/1996,14249,Literature,M,"c,java",True
+Susan,Price,elijahrivera@weaver.com,04/10/2002,14239,Marketing,F,"c_sharp,python",True
+Eugene,Dunn,jefferybrown@lee.info,18/10/1994,14108,Art,M,,True
+Melissa,King,wrightjeffrey@yahoo.com,17/12/1994,11431,Marketing,F,"c_sharp,python,java",False
+Christina,Baker,jillsmith@hotmail.com,04/10/2006,14618,Software engineering,M,"python,R",False
+Brianna,James,erin80@yahoo.com,09/08/2004,13752,Art,F,,False
+Stephanie,Clark,cannoncharles@gmail.com,23/06/1994,9361,Software engineering,F,"c,python",True
+Darlene,Nguyen,vfry@gmail.com,24/11/2000,9703,Science,M,R,True
+Frederick,Gray,hhenderson@nguyen-lopez.com,04/05/2001,8862,Data & IA,F,,False
+Brianna,Mata,michael86@moore-rogers.info,06/09/2001,8562,Data & IA,M,c,False
+Katherine,Romero,tsanchez@yahoo.com,18/06/1998,11331,Art,F,,False
+Harold,Williams,kathryn11@cooper-stokes.org,26/10/1995,14677,Art,F,,True
+Teresa,Barron,sloanjennifer@sanchez.com,24/12/2000,14557,Data & IA,M,,False
+Christopher,Moore,baldwinjames@carroll-sellers.com,15/05/1995,12098,Literature,M,,True
+Danielle,Robinson,mariabush@yahoo.com,20/06/2006,9128,Data & IA,F,"c++,c",False
+Stephen,Molina,barbervickie@gmail.com,23/05/1995,11402,Literature,M,,False
+Gary,Perez,melissa61@gill.biz,12/06/1995,9793,Software engineering,F,,False
+Donna,Rodriguez,omorales@gmail.com,07/03/1998,13362,Software engineering,F,"python,R",False
+Jared,Williams,nsmith@gmail.com,01/02/2004,10097,Science,F,php,True
+Becky,Robertson,hwebb@yahoo.com,19/05/1999,14453,Data & IA,M,"java,python",False
+Joseph,Schneider,bpierce@yahoo.com,03/08/2005,12706,Finance,M,"c++,python",True
+Leslie,Norris,diamond93@yahoo.com,25/09/2005,13657,Literature,M,"php,R",True
+Taylor,Parker,scottkathy@gmail.com,24/12/1999,10250,Marketing,M,"c,c++",False
+Greg,Vega,angelanoble@hotmail.com,09/08/1997,8654,Finance,F,"java,php,c_sharp",True
+John,Cook,joshuamaxwell@castillo.info,11/12/1994,9139,Finance,F,"python,c",False
+Michael,Sims,ekemp@harris-smith.net,03/05/2003,14719,Science,F,"php,R,c",False
+Paul,Brooks,flemingvanessa@simpson-washington.org,20/04/1994,9239,Finance,M,,True
+Misty,Cox,rogerball@gmail.com,15/02/2000,9630,Art,M,"R,python",True
+Todd,Cruz,nicole72@johnson.com,16/01/2005,13866,Software engineering,M,"python,c++,R",True
+Alexander,Hunter,zwise@gmail.com,22/04/1996,10901,Literature,M,"c++,php",False
+Ryan,Welch,patrickperez@porter-everett.org,11/01/2005,8433,Software engineering,F,c++,True
+Jennifer,Hood,lhayes@garza.org,06/07/2000,8464,Marketing,F,"c_sharp,R",False
+Sharon,Dominguez,rbrown@gmail.com,24/03/2002,8342,Art,M,php,True
+Ashley,Erickson,adam32@gmail.com,04/06/2006,14777,Science,M,php,False
+Timothy,Riley,cervantesmichael@gmail.com,23/10/2001,9577,Finance,M,,True
+Carrie,Calderon,kentrachel@yahoo.com,28/08/2000,11471,Science,M,,True
+Scott,Hall,robertnelson@yahoo.com,15/10/1996,11247,Art,M,"python,c++",False
+Antonio,Hall,deanna35@rangel.info,11/01/2005,11704,Art,F,"c_sharp,c,c++",True
+Crystal,Olson,tedwards@lopez.net,01/06/2003,9228,Finance,M,"php,python",True
+Stephanie,Calhoun,vanessa42@reid.net,26/06/1994,8382,Software engineering,F,"c,c_sharp,php",True
+Michael,Hall,heidi07@hotmail.com,14/01/1996,10685,Finance,F,R,False
+Curtis,Perez,donaldcabrera@ferguson-jimenez.net,20/06/2001,8004,Marketing,M,python,True
+Eduardo,Cameron,hhorne@jimenez.biz,20/08/2003,10617,Literature,F,,True
+Darrell,Sharp,zfitzpatrick@yahoo.com,23/07/2003,8834,Art,F,"java,R,c++",False
+Brandon,Peterson,ycrawford@hotmail.com,04/05/2000,12340,Finance,F,c++,True
+Rachel,Jimenez,swansonmary@garcia.biz,24/05/1996,13997,Science,M,"c_sharp,php,python",True
+Natasha,Hammond,kristen49@oconnor.com,14/05/1995,11564,Literature,M,"c++,python",True
+Joshua,Hale,linda66@kelley-hoffman.com,13/07/1999,14735,Literature,M,c++,True
+Christina,Peterson,john94@tate.org,06/05/2003,10080,Art,F,,False
+Preston,Thomas,allisoncaldwell@lewis.com,20/12/1998,13541,Finance,M,java,True
+Keith,Vega,robersonjudy@anderson-gonzalez.com,30/01/1998,13788,Software engineering,M,,True
+Yolanda,Wallace,kelligutierrez@mercer-wallace.biz,16/09/2002,12979,Finance,F,"R,php",False
+Julie,Arnold,michaelfrancis@green.com,27/04/2002,11285,Data & IA,F,,True
+Amanda,Randall,sarah64@gmail.com,28/03/2002,12607,Literature,M,"c_sharp,python",False
+Christina,Castillo,nnunez@hotmail.com,24/12/1999,9157,Literature,M,"R,c,c++",False
+Michael,Harris,johnnyglass@gmail.com,24/10/2002,11708,Software engineering,M,c,False
+Zachary,Schneider,janethernandez@gmail.com,24/08/2003,9876,Software engineering,F,java,True
+Benjamin,Sharp,bryanmccoy@gordon.com,09/03/1996,11833,Data & IA,M,"java,c",False
+Sherri,Ho,gardnerrebecca@hotmail.com,07/03/1995,8123,Marketing,M,"c,php",True
+Renee,Olson,perezgabriel@yahoo.com,24/07/2006,14617,Finance,F,,False
+Michele,White,patelpaul@gmail.com,24/05/1995,14717,Software engineering,F,,True
+Caitlin,Cox,michellemooney@dixon.org,18/06/2000,12179,Software engineering,F,R,False
+Ann,Kennedy,annmassey@decker-ramsey.biz,14/12/1999,14632,Data & IA,M,"c++,php",False
+Marcus,Torres,pcunningham@hotmail.com,12/03/2003,9226,Software engineering,M,php,True
+Ashlee,Soto,kendraporter@martin.biz,09/07/1997,14800,Art,F,,False
+Steve,Turner,kerrmaria@duke-willis.info,28/11/2001,8121,Data & IA,F,"php,python",True
+William,Huynh,kdunn@yahoo.com,22/05/2005,14158,Data & IA,M,java,True
+Victor,Simmons,brian36@lee-snow.com,26/04/1997,12065,Finance,M,php,True
+Zachary,Johnson,lisa09@jackson-kim.net,02/06/1999,11076,Literature,M,"c_sharp,R",False
+Caroline,Garrett,carterheather@nunez.com,25/12/2000,13463,Literature,M,"c_sharp,R",False
+Steven,Hernandez,josephlewis@cooke.com,17/06/2003,9513,Art,M,"php,c,python",False
+Steven,Collier,briannapowers@yahoo.com,05/02/2005,14448,Science,F,"python,c++",True
+Robert,Maxwell,balljulie@yahoo.com,11/12/2002,13062,Literature,F,"c,R,java",False
+Isabella,Brown,kcampbell@mcclain-thompson.com,08/07/1999,9626,Software engineering,M,"c++,c",False
+Kyle,Schroeder,moorebrandi@hotmail.com,06/08/2006,10507,Marketing,M,,False
+Jason,Jones,nsims@nelson.com,22/10/2006,11232,Art,M,"c++,php,R",True
+Amy,Thompson,merrittamy@hotmail.com,24/09/1995,14084,Science,M,"php,c++,c_sharp",True
+Maria,Warren,michael95@wilkins-fowler.com,23/06/2005,12321,Marketing,F,c,False
+Brittany,Long,lisaedwards@johnson.org,27/06/2004,9609,Marketing,M,"c++,java,c_sharp",False
+Lynn,Montes,xhansen@jacobs-ballard.com,09/07/1995,12989,Science,F,"python,c_sharp",False
+Scott,Roberts,daniel59@gmail.com,18/07/2003,14313,Software engineering,F,"c++,c,java",True
+Joseph,Fuller,zperez@black-miller.com,06/09/2003,13592,Marketing,M,"c,R",True
+Sarah,Carlson,williamcooper@cameron.net,18/10/1999,10339,Software engineering,M,c,False
+Gary,Guzman,ndiaz@hotmail.com,31/08/2003,10833,Software engineering,F,"c,c_sharp,java",False
+Christopher,Pennington,carly42@best.org,11/02/1997,14401,Art,M,java,True
+David,Michael,oanderson@ortiz.info,01/07/1998,13258,Art,F,"c++,java",False
+Judith,Edwards,diana56@sanchez-lee.net,25/02/2002,13026,Science,M,python,False
+Bailey,Cooke,jenniferchavez@richardson.net,03/04/2005,12388,Art,M,,True
+Kyle,Khan,olivertanner@gmail.com,09/05/2001,13210,Literature,M,"python,c_sharp,php",True
+Janet,Smith,ndunn@richards.com,05/12/1993,11098,Data & IA,F,,True
+Alicia,Terry,vsanchez@wolf.com,10/09/1995,8520,Data & IA,M,,False
+Rebecca,Davis,whitelawrence@hotmail.com,09/07/2004,9484,Finance,F,php,True
+Brooke,Beard,zgonzalez@gmail.com,03/02/2004,12195,Science,F,,True
+Jacob,Roberts,vvillarreal@yahoo.com,31/10/1994,10217,Science,M,"java,python",False
+Kathryn,Castillo,carol98@case-gilbert.com,13/09/1999,11813,Software engineering,F,"java,c++",True
+Michael,Miller,rjohnson@rhodes.org,05/05/2001,8241,Finance,F,,False
+Scott,Wilkerson,bgallagher@gmail.com,17/05/2003,14374,Software engineering,F,,False
+Amber,Archer,tina35@lee.com,03/11/1995,12189,Marketing,M,c++,True
+Amy,Benton,coreycruz@smith.com,24/04/2006,12306,Art,F,,False
+David,Carr,kharris@floyd.com,15/10/1997,14014,Science,F,"python,php,c++",False
+Matthew,Espinoza,staceybarton@gmail.com,13/02/2005,10127,Science,F,R,False
+Heather,Reyes,msalas@turner.net,22/05/2005,14476,Software engineering,M,,False
+Bethany,Peck,nrobertson@king-watson.com,24/06/2004,13486,Finance,F,"c++,R,python",True
+Eric,Stevens,kblankenship@yahoo.com,11/06/1995,9498,Marketing,M,"php,c",False
+Thomas,Howard,lisasullivan@hotmail.com,27/12/2002,11966,Data & IA,F,c_sharp,True
+Rachael,Coleman,simpsontamara@williams.biz,06/02/1994,9185,Finance,M,c_sharp,False
+Marc,Mcbride,amywallace@lee.net,15/04/2001,14467,Data & IA,F,"c,c++,c_sharp",False
+Stephanie,Reynolds,kaitlynbean@adams.org,19/04/1998,11059,Data & IA,M,,False
+Marc,Beasley,ohall@gmail.com,10/08/2006,14927,Data & IA,M,,True
+Stacey,Proctor,ashley95@gmail.com,02/02/2000,10626,Software engineering,M,,False
+Chad,Garcia,wphillips@yahoo.com,04/08/2002,11609,Marketing,M,,True
+Scott,Sanders,dbishop@gmail.com,17/10/2001,13283,Marketing,F,,True
+James,Lopez,robin57@yahoo.com,18/08/2005,14360,Software engineering,M,"R,python,c++",True
+Samantha,Rich,cgreen@hotmail.com,22/08/1996,8253,Science,F,"c_sharp,php",False
+Rose,Carpenter,madelinepotts@jarvis-mathews.com,02/03/1997,11758,Finance,F,"java,R,c",True
+Jesse,Ritter,jenniferhale@yahoo.com,16/04/2002,14327,Literature,F,"python,c_sharp",True
+Teresa,Curtis,bjackson@hotmail.com,04/12/2000,8368,Literature,F,"php,python,c",True
+Kendra,Jones,erichoffman@king.org,08/09/2004,9742,Software engineering,M,c,True
+Kristi,Lewis,erin20@gmail.com,10/06/1996,10336,Data & IA,F,c,True
+Aaron,Sharp,samueljackson@hopkins.com,23/01/1995,12739,Art,F,,False
+Bryan,Jackson,travis25@hotmail.com,01/09/2003,10635,Literature,M,"java,c_sharp,R",False
+Toni,Jackson,bnewman@hotmail.com,11/09/2005,13000,Art,M,"python,php,c++",True
+John,Thompson,anthonylawrence@hotmail.com,29/06/1999,8570,Science,F,"java,c",True
+Mitchell,Rice,randallzachary@hotmail.com,12/03/2003,11497,Literature,F,"c,python",True
+Kristen,Johnson,pittsalexa@smith.com,13/03/2002,13374,Finance,F,c_sharp,True
+Austin,Soto,tshelton@gmail.com,14/09/2003,9569,Literature,M,python,False
+Carol,Park,sarahwoodward@gmail.com,18/08/1997,9435,Science,F,"c++,python",False
+Adam,Zhang,timothy83@perry.biz,13/06/1999,9702,Finance,F,"php,c,c_sharp",True
+Michael,Bailey,ashleywilson@hotmail.com,19/04/2005,11768,Marketing,F,c_sharp,True
+Vicki,Stone,tblevins@combs.com,10/06/2006,9324,Literature,M,,False
+Christine,Hill,anthony22@adams.biz,16/12/2002,10199,Marketing,M,,False
+Lindsey,Frey,klineelizabeth@guerra.com,08/10/2006,10301,Marketing,M,c,True
+Jennifer,Thompson,vthomas@leach.com,01/08/1995,14716,Literature,M,java,True
+Eric,Larsen,wendy59@frederick.net,07/10/1998,12498,Data & IA,M,,True
+Marc,Jones,brianna46@yahoo.com,02/02/2005,14829,Art,M,"c++,java,c_sharp",True
+Mary,Waller,larsonrebecca@gmail.com,18/05/1995,8476,Finance,M,,True
+Charles,Lewis,lopezkatie@gmail.com,30/05/2005,13176,Science,M,,True
+Robert,Carroll,teresa12@parker-johnson.biz,23/01/2000,12825,Science,M,,True
+Donald,Phillips,ianderson@yahoo.com,13/10/2005,13755,Software engineering,M,,False
+Jonathan,Reed,ojones@hotmail.com,23/04/2005,14214,Software engineering,M,"java,php",True
+Michelle,Vargas,jamiegolden@gmail.com,23/01/2003,14969,Literature,F,"c++,c,php",True
+Gregory,Rogers,foxsteven@williams.org,18/05/2006,11334,Software engineering,M,"c_sharp,python",False
+Sarah,Atkins,david51@gomez.biz,23/09/2003,10787,Software engineering,F,"R,python",False
+Megan,Edwards,qramirez@yahoo.com,06/05/1994,9731,Art,M,python,True
+Rhonda,Brown,xmoreno@yahoo.com,01/08/2005,9240,Literature,M,c++,True
+Robert,Salinas,alexanderrobin@williams.info,17/09/1996,9377,Literature,M,python,False
+Brandon,Park,vpowell@gmail.com,05/11/1993,14077,Literature,F,"python,c++,R",True
+Ann,Crawford,phelpsstephanie@lee-edwards.com,17/08/2002,8224,Literature,M,php,False
+Adam,Coleman,amy80@thompson.org,04/03/2002,13504,Marketing,M,"R,python",False
+Ronald,Banks,melissa31@mclaughlin.com,26/01/2004,9036,Data & IA,M,python,False
+Luke,Cook,sharon28@holmes-gardner.org,10/04/1997,13266,Literature,M,"python,php",True
+Deborah,Jones,brendamartin@lawrence.org,20/12/1995,9706,Literature,F,,False
+Michael,Navarro,harperkelly@gmail.com,13/06/2006,11010,Science,F,"php,c_sharp",False
+Kaitlyn,Turner,qmejia@hotmail.com,22/05/1997,11050,Literature,M,python,True
+Natalie,Pennington,joshuafoster@gmail.com,02/11/2005,10346,Software engineering,F,,False
+Jason,Wilson,pmckinney@lee.info,10/05/1995,13808,Marketing,M,R,True
+Whitney,Morales,nichole72@yahoo.com,07/06/2000,9185,Literature,M,,False
+Robert,Cobb,pwilliams@cross-lopez.org,04/11/1997,9578,Data & IA,F,,False
+Robin,Meyer,olsonclaudia@huff.com,02/11/2004,12230,Science,F,"c++,java",True
+Courtney,Baker,dominicnorman@yahoo.com,15/11/1995,10372,Marketing,F,,True
+Tracy,Smith,michaelwilson@gmail.com,01/09/2000,9094,Marketing,F,,False
+Mark,Gardner,xrodriguez@yahoo.com,18/05/1998,12752,Marketing,M,,True
+Marcus,Green,staceyjohnson@washington.info,17/02/1995,10225,Art,F,,False
+Brian,Ferguson,wrightjacob@glenn.com,20/04/2003,10365,Literature,M,"c++,R,c_sharp",True
+Stacy,Church,wkeller@sexton-jones.com,23/10/2003,14058,Literature,M,,False
+Robin,Wilson,elizabeth49@sanders.com,20/09/1997,10136,Marketing,M,"c++,c",True
+John,Price,christian89@allen.com,23/04/2004,8473,Software engineering,F,"c,R,c_sharp",True
+Richard,Duran,elliottrenee@yahoo.com,19/04/1999,8102,Finance,F,,False
+Steven,Leblanc,twright@fields.com,27/06/2005,13945,Data & IA,F,"python,c_sharp,c++",True
+Samantha,Wilson,watkinsadam@smith-sanders.com,11/04/1996,12837,Marketing,M,"python,java",False
+Robert,Hardy,piercepaul@yahoo.com,18/10/2001,12419,Marketing,M,java,True
+Brian,Faulkner,rothderek@johnson.com,09/03/2001,14046,Software engineering,M,,True
+Elizabeth,Hernandez,brownivan@hotmail.com,03/05/2000,9688,Data & IA,F,,False
+Terri,Garza,camachodavid@ryan-garcia.com,09/02/2005,14521,Marketing,M,"R,php,c++",True
+Paul,Hoffman,johnsonjennifer@yahoo.com,13/03/1995,9378,Marketing,M,php,True
+Wesley,Fletcher,villegasbrett@hotmail.com,06/06/2006,14138,Data & IA,F,"python,R,c++",False
+Morgan,Webb,ellisscott@hotmail.com,20/04/2005,12903,Science,M,,True
+Thomas,Larson,alanbarton@key-ramirez.com,08/02/2006,11095,Art,F,c_sharp,True
+Sabrina,Pope,zmason@white.com,19/09/2000,14169,Science,F,c++,True
+Samantha,Long,samanthajensen@yahoo.com,31/05/2003,9400,Finance,F,"php,c++",False
+Joanna,Turner,martinandrew@hotmail.com,18/08/1994,12424,Literature,F,python,False
+James,Sawyer,annefrost@yahoo.com,02/02/1997,12971,Marketing,F,"c,c_sharp,R",True
+Stacy,Edwards,mikebennett@hotmail.com,04/03/2001,11762,Software engineering,M,"java,c_sharp",True
+Nathan,Barnes,vasquezemily@fernandez.com,26/04/2004,12565,Science,F,"c_sharp,R",True
+Amy,Taylor,jacobgriffith@gmail.com,25/06/1998,13010,Art,F,java,False
+Joyce,Jones,kristen76@sims-mcclain.com,25/01/2006,10031,Data & IA,F,,True
+Douglas,Austin,hhamilton@green.com,19/01/2003,13477,Science,M,c_sharp,True
+James,Wilson,odavidson@yahoo.com,03/12/1994,14613,Literature,F,,False
+Deborah,Frost,andrewwalters@yahoo.com,05/12/1995,11055,Software engineering,F,"java,php",False
+Jordan,Yang,phamamanda@gmail.com,13/03/2006,13889,Marketing,F,"php,java,python",False
+Dawn,Barrett,ngarrison@bowen-cruz.com,21/12/1995,11053,Art,M,"java,c_sharp",False
+Timothy,Mullins,darrellcampbell@hotmail.com,24/01/1996,10255,Finance,F,"java,c",False
+Tom,Taylor,ncisneros@hotmail.com,17/11/2004,9376,Finance,M,python,False
+Lisa,Thompson,hbowen@hotmail.com,05/05/1999,12478,Marketing,F,"php,python,R",False
+Joseph,Mcdaniel,tsimmons@lewis-rodriguez.com,25/12/2000,14018,Literature,M,java,False
+Christina,Tucker,aacosta@hall.biz,16/11/1995,8059,Marketing,F,,False
+Gregory,Walter,jwhite@zuniga.com,27/10/1993,14190,Science,M,"c++,R,php",False
+Martin,Shields,amanda32@yahoo.com,31/03/2001,14678,Art,F,"python,c_sharp",False
+Susan,Hughes,kristenhunter@yahoo.com,26/02/1996,11247,Data & IA,M,c,False
+Samuel,Smith,sheri55@walker.com,16/03/2000,14567,Finance,F,"php,c",False
+Amy,Armstrong,cheyenne05@burgess.com,21/07/1999,8781,Marketing,M,,True
+Donald,Randolph,crystaladams@gmail.com,04/12/1997,14144,Literature,F,c_sharp,True
+Christine,Moreno,nsandoval@moreno-hernandez.com,30/11/1994,13021,Software engineering,M,"c++,c_sharp,php",True
+Brittany,Ball,deborahdunn@yahoo.com,04/12/1997,12834,Software engineering,M,python,False
+Betty,White,miranda01@smith.org,11/09/2005,9440,Literature,F,,False
+Chad,Stevens,paul07@harmon-duncan.info,11/03/2001,14390,Data & IA,M,,False
+Jacqueline,Roth,ypace@hotmail.com,25/06/1996,10287,Software engineering,F,"java,python",False
+James,Robinson,teresa80@gmail.com,13/09/2005,13979,Literature,F,c++,True
+Denise,Anderson,clarence21@owens.com,24/04/2001,8218,Art,F,R,False
+Henry,House,taylorsarah@porter-weber.com,22/09/2000,14820,Marketing,F,php,True
+Phyllis,Grant,hatfieldkevin@hotmail.com,22/01/1994,13054,Science,M,c,True
+Amy,Meyer,maryduran@garcia.com,07/02/2004,13152,Art,F,"java,php,c++",False
+Samuel,Obrien,zlopez@gmail.com,15/11/2002,13482,Literature,M,,True
+Michael,Johnson,amy53@scott.net,12/07/1999,13510,Science,M,"R,python",False
+Joy,Mills,maria52@davis.com,07/12/1993,13236,Data & IA,F,,False
+Ashley,Patrick,monicawagner@gonzalez.com,16/06/2005,8460,Software engineering,F,,True
+Dominique,Wright,stephaniepittman@gmail.com,24/03/1996,10481,Science,M,"c++,R,php",False
+Anthony,Johns,matthewbarker@yahoo.com,12/02/1999,11373,Art,M,"c++,R,c_sharp",True
+Sheila,Rowland,phopkins@reynolds-harper.com,03/02/2004,8073,Finance,F,,True
+Laura,Levine,jamesjohnson@gmail.com,19/08/1998,10769,Software engineering,F,R,True
+Brian,Alexander,curtisthomas@hotmail.com,22/04/2002,9985,Literature,M,,True
+Paul,Benton,sonia60@galvan.info,11/05/2005,10616,Software engineering,M,python,True
+Melissa,Malone,joshuaatkinson@james.net,21/03/2005,14725,Marketing,F,,True
+Cory,Stevens,laura02@reynolds-jones.net,24/03/2000,9817,Software engineering,F,"python,php,R",True
+Duane,Fox,christopher55@ramirez.biz,24/02/2003,8004,Science,F,"R,python",True
+Susan,Smith,williamsmatthew@harvey-barajas.com,11/11/1999,12362,Art,M,"java,php",False
+Kelly,Gutierrez,robertmurphy@gmail.com,11/09/2000,12991,Data & IA,F,"python,java",True
+Dustin,Miller,tiffanywarren@yahoo.com,19/10/2006,12059,Science,F,,False
+Nathaniel,Henderson,taylorlorraine@gmail.com,28/03/1997,12429,Data & IA,M,,False
+Tracey,Mitchell,cummingsana@reed.net,16/06/1995,14645,Marketing,F,"c_sharp,php",False
+Michael,Woodward,richardthomas@hill.com,05/02/2000,10214,Literature,M,"R,c_sharp",False
+Sierra,Rasmussen,edward10@brown-hopkins.com,21/04/2006,12111,Data & IA,M,,False
+Andrew,Mcmillan,murraynatalie@hotmail.com,15/10/2004,9040,Literature,F,"c++,c_sharp,python",False
+Angela,Jackson,bryanarmstrong@harrison.com,24/02/1999,10884,Data & IA,F,"c++,c_sharp,java",False
+Valerie,Carrillo,contrerasrobert@yahoo.com,04/02/2003,13947,Software engineering,M,java,True
+Linda,Rhodes,wvillegas@hotmail.com,14/03/1995,9784,Finance,F,"c_sharp,c++",True
+Lisa,Jennings,sbutler@fields.biz,14/03/1996,10702,Marketing,M,"c++,R",False
+Tricia,Jordan,rogermcmillan@hotmail.com,17/09/1994,9585,Data & IA,M,c,False
+Laura,Flores,fgarcia@gmail.com,07/09/1996,12338,Software engineering,F,"java,R",False
+Matthew,Nelson,mberg@hotmail.com,03/03/1995,12244,Finance,M,"c,c++,php",True
+Joshua,Spencer,carterhayley@nguyen.info,09/02/2004,13641,Data & IA,F,"java,c,python",True
+Donald,Russell,gamblemichael@hotmail.com,11/01/1994,9901,Software engineering,M,,True
+Linda,Sandoval,zshepherd@arias.info,04/08/2000,12808,Marketing,M,,False
+Carrie,Smith,cainsheila@johns-gutierrez.com,11/07/2001,10551,Software engineering,M,"c,java",True
+James,Herrera,ihurst@hotmail.com,22/03/1996,14775,Literature,M,c++,True
+Michael,Dunn,thomas79@yahoo.com,20/01/2004,9706,Art,M,,False
+Robert,Sanders,erichardy@doyle-barber.com,03/02/2004,8937,Science,M,c++,False
+Patrick,Smith,qbarry@hotmail.com,28/12/1993,13347,Finance,M,"c,R,java",False
+Mark,Wilson,jeremysullivan@gmail.com,20/11/1999,9228,Software engineering,M,"php,R",True
+Renee,Baker,april96@may.biz,20/02/2003,10024,Marketing,F,"php,java,R",True
+Gregory,Forbes,maryrasmussen@collins.com,23/11/1994,12873,Art,M,"c++,c,php",False
+Walter,Avila,tperez@hotmail.com,08/11/2000,12204,Finance,F,"php,c",False
+Katie,Pratt,katherine44@campbell-powers.biz,21/04/2000,8434,Software engineering,F,"c_sharp,php,java",True
+Michael,Terry,allenlori@hoffman.com,08/07/2003,12018,Marketing,F,"R,python,c++",False
+Kevin,Campbell,deborah77@love.com,20/12/1997,12310,Software engineering,M,"c++,c_sharp",True
+Matthew,Daniel,tracy75@gmail.com,16/11/1998,11824,Literature,F,c,False
+Philip,Hernandez,shannon71@yahoo.com,02/11/2000,12330,Literature,M,"java,c",False
+Jennifer,Calderon,afreeman@hotmail.com,20/08/2005,12929,Literature,F,c++,False
+Lance,Hill,monica33@gmail.com,14/05/1997,9998,Marketing,F,"java,c++,c_sharp",False
+Annette,Hoffman,amymartin@yahoo.com,29/10/2000,12728,Software engineering,M,,False
+Miguel,Hall,dcohen@gmail.com,06/12/2004,14637,Literature,M,c++,True
+Joseph,Cox,jason79@duncan.com,10/06/1998,11313,Art,M,c_sharp,True
+Richard,Hall,maryhoover@crawford.com,08/11/1995,11254,Software engineering,M,"c,c++,R",True
+Evelyn,Ward,martinezderek@juarez-lane.com,07/01/2006,14735,Art,M,"c_sharp,c,c++",False
+Donna,Gibson,wagnermark@glenn.biz,21/05/1996,9867,Art,M,"java,R",True
+Charles,Wilson,scottrivera@jones-williams.com,15/05/2003,10128,Software engineering,F,"c++,c_sharp",False
+James,Rice,matthew35@stuart.net,23/11/2003,9570,Literature,M,"c++,R",True
+Christopher,Kelly,jonwallace@perry.org,10/06/1995,13460,Finance,F,c++,True
+Elizabeth,Yoder,pweeks@yahoo.com,10/02/1997,13776,Marketing,M,"c_sharp,python,php",False
+Christian,Burns,cbrown@gmail.com,12/07/1999,13453,Art,M,,True
+Christy,Hodges,donna25@lang-chavez.info,16/05/2005,8314,Software engineering,F,"c++,c_sharp,python",False
+Jason,Miller,cchan@johnson-levy.biz,19/04/2001,11008,Software engineering,M,"R,c++",True
+Gregory,Richards,juanjohnson@sims.com,24/04/1996,14251,Science,M,,False
+Laura,Church,joneskenneth@kelly.com,19/07/1998,13878,Marketing,M,python,False
+Anthony,Gross,anna67@young.org,03/04/2006,10671,Marketing,F,"python,java",False
+Kenneth,Jones,mreynolds@knapp-schmitt.net,30/01/2005,8402,Software engineering,F,,True
+Amanda,Henderson,samantha84@howell.com,22/07/1997,10621,Science,M,,True
+Monica,Griffin,ucline@yahoo.com,20/06/1998,9179,Marketing,F,"php,python",True
+Steven,Brooks,vmcmahon@edwards.com,27/06/2005,12833,Software engineering,F,"c_sharp,python,java",False
+Jeremy,Carney,pkeith@gmail.com,02/08/1998,11131,Marketing,M,java,True
+Christopher,Cole,qbeltran@hotmail.com,09/09/2001,8602,Science,M,"c,python",False
+Crystal,Mcgee,jamesjones@thomas.org,13/03/1995,11263,Software engineering,F,,True
+Daniel,Yates,wmartin@gmail.com,25/03/2004,11197,Science,M,,True
+Shawn,Moore,sarah61@park.com,12/04/2005,9219,Software engineering,F,java,False
+Holly,Sheppard,cherryjames@anderson.net,22/01/1998,14003,Literature,F,c++,True
+Samuel,Brooks,christine89@hotmail.com,09/01/1994,9662,Software engineering,F,"java,R,python",False
+Christine,Mcfarland,qbautista@miranda-cardenas.com,03/05/1995,10259,Marketing,F,c++,True
+Maria,Castro,cromero@gmail.com,28/01/2006,10752,Marketing,M,"R,c_sharp,java",False
+Tiffany,James,xkaiser@roman-henderson.info,03/08/1998,11935,Science,M,c++,False
+Monica,Lawrence,holson@bailey.info,16/08/1999,8884,Data & IA,F,c_sharp,True
+David,Lopez,michaelbryant@becker-chambers.com,17/02/2002,10340,Literature,M,"R,c++,python",False
+Lisa,Gibson,vmalone@potter.com,12/09/2005,13611,Science,M,,False
+Angela,Burnett,adam89@moore.com,28/09/2006,13391,Art,M,c_sharp,False
+Jessica,Perry,olsenmichael@gardner.org,14/05/2001,13051,Finance,M,"python,R,java",False
+Donald,Peterson,tiffany74@young.com,20/02/2003,13155,Art,F,,False
+Steven,Atkins,dhernandez@hotmail.com,11/03/1994,8751,Software engineering,M,"c++,c",True
+Harold,Day,amanning@roberts-gibson.com,25/01/2003,13785,Data & IA,F,"c_sharp,java,c",False
+Scott,Gray,zchristian@thompson.org,13/01/2004,9886,Software engineering,F,"php,c_sharp",False
+Anthony,Holmes,nhunt@perkins-knight.net,12/01/1996,14224,Literature,M,,False
+James,Roberts,stevendiaz@jenkins.com,28/02/1999,11703,Literature,M,"java,php",False
+Heather,Nelson,daniel39@garcia.org,08/10/2002,12157,Science,F,python,False
+William,Pierce,vernon86@lopez-brown.net,17/03/2002,9172,Finance,F,c++,True
+Ivan,Vega,david55@aguirre.biz,07/10/2004,12900,Finance,F,php,True
+Robert,Greene,brownsarah@hotmail.com,23/12/1993,9515,Art,M,"c,java,c++",True
+Michelle,Austin,jeffscott@yahoo.com,26/06/2000,13722,Science,M,java,False
+Joseph,Rivera,jonesjohn@hotmail.com,11/10/2005,11145,Science,F,"c_sharp,php",False
+Margaret,Ballard,christophermorgan@gmail.com,05/11/1999,12769,Marketing,F,"java,R,python",False
+Katrina,Adams,ricardoortega@patterson.com,16/11/2002,13047,Art,F,java,False
+Kelsey,Rodriguez,fmendoza@gmail.com,03/05/1998,10083,Finance,F,"python,c_sharp,php",True
+Jessica,Hamilton,william48@huang-porter.info,12/04/2006,14557,Finance,M,,True
+Keith,Ortiz,smithmark@yahoo.com,01/03/2001,10022,Data & IA,M,c++,False
+Kimberly,Roberts,walkerjoshua@henderson-bailey.com,19/08/2000,9747,Software engineering,F,"R,java",False
+Tara,Torres,jefferybird@jones.net,03/12/1997,14677,Art,M,,False
+Adam,Murphy,william70@yahoo.com,17/09/2001,14866,Data & IA,M,"java,c,php",False
+Mark,Cox,bergjames@gmail.com,26/10/1997,12943,Finance,M,"c++,R,php",False
+Christopher,Shaw,qking@alvarez-campbell.com,06/04/2001,12132,Literature,F,R,False
+Sierra,Gray,hernandezjamie@grant-edwards.net,15/04/2004,12146,Science,F,"c,R,c_sharp",True
+Wendy,Cortez,donald26@williams-spencer.com,15/12/2001,11548,Art,M,,True
+Amber,Baker,johnwilliams@atkinson.biz,30/05/2004,9382,Data & IA,F,"c++,php",True
+Philip,Smith,shannonalvarez@hotmail.com,10/04/2002,11376,Science,F,"python,php,c",False
+Daniel,Mendez,smithlisa@gmail.com,17/07/2005,10613,Science,M,c,False
+Holly,Anderson,mayojoshua@ingram-jackson.com,14/01/2006,13491,Marketing,M,R,True
+Colton,Pierce,carldavis@james.com,02/04/2005,8574,Marketing,M,"c_sharp,python",True
+Kathleen,Jackson,sarathomas@hernandez-scott.com,17/07/1998,12034,Literature,F,"java,c_sharp",True
+Terri,Moon,dawn84@hotmail.com,25/03/2006,13072,Data & IA,F,"c,php",True
+Eric,Carter,clarkjoshua@gmail.com,06/06/2004,9729,Literature,F,"php,python",True
+Kyle,Jones,lauramorris@gmail.com,18/02/1995,14061,Data & IA,M,c_sharp,True
+Benjamin,Watts,josephreese@gmail.com,23/03/2005,11122,Data & IA,M,"c++,java",False
+Brittany,Morris,gardnerbethany@gmail.com,26/05/2005,14568,Science,F,"c++,python",False
+Kimberly,Moore,wconrad@hotmail.com,29/07/1994,13951,Art,M,,True
+Carrie,Wood,ambermiller@hotmail.com,05/04/2004,13587,Science,M,"c++,php,java",False
+Victor,Martin,cervantesgeorge@nguyen.com,05/08/2006,8426,Science,M,"c,php",False
+Janet,Lopez,rferguson@anthony-mercado.com,20/02/2006,13045,Marketing,F,"c_sharp,c++,python",False
+Eric,Collins,jennifer28@walker.info,02/04/1999,12447,Software engineering,M,"c_sharp,java",False
+Chelsea,Frazier,rodriguezgarrett@yahoo.com,22/02/1994,10235,Science,F,"python,c_sharp",True
+Cynthia,Kelly,bmoore@hotmail.com,09/12/1997,13078,Software engineering,M,java,True
+Donna,Thompson,kimberly35@yahoo.com,26/09/1996,12602,Software engineering,M,java,True
+Tyler,Brown,melissa93@weeks.com,07/12/1996,14808,Finance,M,"R,python",True
+Allison,Gray,mario47@yahoo.com,16/01/2002,10812,Software engineering,M,c_sharp,True
+James,Jordan,acobb@hotmail.com,01/08/2001,10478,Literature,F,c++,True
+Alexandria,Hamilton,joseph04@hotmail.com,27/09/1998,13076,Software engineering,F,"c,c_sharp",False
+Justin,Johnson,aprilmurphy@yahoo.com,23/08/2002,12330,Literature,F,"c++,R,c_sharp",False
+Derrick,Evans,calebanderson@martin.info,08/12/2005,12343,Marketing,F,,True
+Morgan,Goodman,kbell@gmail.com,12/12/2001,13555,Software engineering,M,R,True
+George,Rocha,amy92@reyes.info,19/08/2002,9598,Finance,M,"R,c++,c",True
+Donald,Cruz,lisasmith@gray-sandoval.net,04/10/1997,13010,Art,F,"php,c_sharp",True
+Alexander,Morrow,browndana@wilson.com,17/08/1998,12080,Art,M,"php,c++",False
+Aaron,Gonzales,walkerkim@gmail.com,10/04/2001,12553,Software engineering,M,python,False
+Scott,Owens,nbernard@gmail.com,07/03/2001,12879,Art,F,"c,R,php",False
+Martin,Perez,youngcaitlin@ho-wilson.com,14/11/1999,8441,Art,F,"c++,R,c",True
+Cheryl,Fox,phanson@ryan-zhang.com,26/02/2002,10279,Finance,M,,False
+Scott,Aguirre,foxmorgan@wong-herman.com,08/12/2004,13520,Marketing,F,java,True
+James,Castro,tamara11@anderson.com,14/07/1995,13376,Data & IA,M,"python,R",False
+Mark,Petty,morrisonnathaniel@yahoo.com,20/12/1999,8368,Literature,M,"python,java,c",False
+Sean,Gibson,richlinda@hunt.com,12/06/2000,12134,Finance,M,c++,False
+Eric,Cohen,deborah17@gmail.com,28/03/1995,12140,Literature,M,java,False
+Frances,Santos,sheabrandon@yahoo.com,03/12/1995,12797,Marketing,M,c_sharp,False
+Elizabeth,Smith,turnerbrandon@merritt.com,10/07/1996,12509,Finance,F,c,True
+Sherry,Page,ypearson@gmail.com,09/01/2002,14307,Art,F,R,False
+Jeffery,Griffin,rossbrittany@gmail.com,10/03/2004,13507,Finance,F,,True
+Dustin,Williams,ksmith@peterson.com,15/05/1996,8126,Marketing,M,"python,java,c++",True
+Cory,Bell,roselaura@ferrell-phillips.com,16/05/1994,8242,Literature,F,"c,R",False
+David,Torres,ohernandez@mejia.com,10/01/1997,11181,Literature,F,php,False
+Elizabeth,Andrews,leeallison@gmail.com,19/01/1999,8815,Software engineering,F,"c_sharp,java,R",True
+Mary,Lynch,eoliver@perry.com,28/12/1997,12827,Art,F,c,False
+Thomas,Pruitt,williamsdavid@griffin.org,31/07/1994,8046,Art,F,php,False
+Thomas,Carney,katherinesawyer@gmail.com,21/06/2003,13463,Finance,F,"java,c++",False
+Matthew,Garcia,victoriawoods@chambers.com,02/01/2004,11248,Art,F,"java,c",True
+Steven,Erickson,bennetttimothy@hotmail.com,11/08/2004,8437,Art,F,"R,c_sharp",False
+Richard,Wolf,franksmith@perez.com,15/08/2004,10668,Marketing,M,java,False
+Brittany,Estrada,ebenson@gmail.com,08/11/2001,11568,Literature,F,"php,c_sharp",True
+Regina,Mcbride,chavezmark@hotmail.com,30/12/2003,13962,Marketing,F,"python,php",False
+Nicole,Brown,angelahernandez@gmail.com,15/02/2004,9827,Finance,M,"python,c",False
+Jeffrey,Mccarthy,clarkepeter@yahoo.com,17/09/1998,14416,Art,M,java,True
+Pamela,Rose,hcollins@snyder.info,02/09/1994,8261,Art,F,,True
+Sandra,Walsh,ywright@warren.com,09/11/2003,10561,Literature,F,c,False
+Anthony,Armstrong,cookmichael@gmail.com,18/03/1997,14228,Art,M,"python,c++",True
+Douglas,Grimes,dwilson@yahoo.com,01/12/1995,12622,Software engineering,F,"c,php,R",False
+Jimmy,Mcguire,ahebert@hotmail.com,26/05/1999,12911,Science,M,"python,java,c",False
+David,Adams,kramerrichard@conway-rice.com,14/01/2005,12873,Marketing,M,c_sharp,False
+Travis,Valencia,danielsmith@washington.com,15/07/1998,10177,Finance,F,"python,R",False
+David,Kelly,nashvanessa@johnson.com,01/03/1999,9233,Art,M,,False
+Anthony,Thompson,nelsonpatrick@gmail.com,25/04/2001,8154,Finance,F,java,True
+Kenneth,Hahn,vglenn@morgan.com,15/03/2000,14645,Finance,M,c_sharp,False
+Julia,Walker,xrodriguez@hotmail.com,30/10/1998,8576,Data & IA,F,,False
+Scott,Martinez,bpaul@gmail.com,24/01/2001,14442,Marketing,F,python,False
+Mark,Kirby,ggutierrez@gmail.com,05/06/1998,11656,Art,M,,False
+Brian,Deleon,benjaminleonard@hotmail.com,11/03/2006,8243,Literature,M,"c,R,python",False
+Rebecca,Anderson,ebaxter@aguirre-buckley.com,11/10/2003,10618,Software engineering,M,"c_sharp,R,python",True
+Jose,Phillips,angela15@jones-rodriguez.com,02/06/2002,8318,Literature,M,,False
+Janice,Gutierrez,anthony38@washington.org,20/02/2004,14265,Literature,M,c,True
+Christopher,Evans,jimenezallison@small.biz,12/10/1994,9430,Finance,F,R,False
+Amanda,Russo,robert69@clark.org,23/06/1997,9503,Finance,F,,False
+Gregory,White,lesliesmith@yahoo.com,24/06/1996,11201,Art,M,python,True
+Amber,Maddox,bhart@gmail.com,20/01/1994,11332,Finance,F,php,False
+Ryan,Chen,jamesthompson@bruce.org,22/10/2004,9017,Art,F,R,True
+Timothy,Brooks,madeline98@chavez.net,15/08/1995,13796,Finance,F,,False
+Michael,Chambers,meaganroberts@green.org,15/11/2003,11212,Data & IA,M,,False
+David,Mcdaniel,kellyjones@gmail.com,12/09/1998,13698,Finance,F,,True
+Jennifer,Wilkins,hbrown@murphy.net,01/03/2006,8229,Science,M,,False
+Jeanette,Rodriguez,pjohnson@yahoo.com,09/10/1998,9817,Finance,F,,True
+Melanie,Davis,qcastro@hotmail.com,30/09/1997,13962,Science,M,,False
+Norma,Crane,sanderson@gmail.com,26/09/1997,10543,Literature,F,"c,python",False
+Melissa,Carpenter,mpadilla@glover-davis.info,25/10/1996,11337,Marketing,F,,True
+Matthew,Evans,baldwindanielle@marshall.com,05/08/2002,9871,Science,M,,True
+Daniel,Rivera,juanstevenson@hotmail.com,14/03/2000,10850,Science,F,"php,java",True
+Diane,Moses,morrisonmary@hotmail.com,19/10/2002,11486,Literature,F,,True
+Emily,Maddox,abbottheather@hotmail.com,04/12/1997,14453,Literature,M,,False
+Gloria,Johnson,pbaker@hotmail.com,29/10/1993,14498,Marketing,F,"c,R,c_sharp",False
+Robert,Erickson,nicholassherman@hotmail.com,09/02/1999,14662,Software engineering,M,"java,c,c_sharp",False
+Benjamin,Patterson,gregorymitchell@yahoo.com,24/02/2001,9130,Literature,M,,True
+Richard,Bennett,billyhenson@brown.com,06/08/1995,14766,Marketing,F,"c++,c,php",True
+Monique,Frye,ireynolds@gmail.com,04/05/1996,11412,Science,M,,False
+Timothy,Lopez,timothyhughes@hotmail.com,05/11/2000,8871,Software engineering,F,,True
+Edward,Cook,wilsonmichelle@yahoo.com,10/07/2003,13436,Software engineering,M,"python,java,c++",False
+Eric,Bailey,samanthacrosby@hicks.info,24/06/2000,10991,Finance,M,,False
+Deborah,Thompson,richardrodgers@romero.com,09/08/1997,13229,Science,F,R,False
+Johnathan,Flores,ronaldglover@gmail.com,07/10/2000,13609,Marketing,F,,False
+Bryan,Miller,wgardner@yahoo.com,22/09/1998,9514,Finance,F,R,False
+Gregory,Martinez,yjones@ingram.net,22/05/1996,11551,Finance,M,,False
+Heather,Green,pinedamichael@stephens.org,21/12/1999,9744,Software engineering,F,"python,c++",True
+Sarah,Salas,james51@gmail.com,12/11/1994,10090,Science,M,"c++,R",True
+Emily,Garrison,cochranbryan@yang-kennedy.com,14/08/1999,9404,Finance,M,"java,python",False
+Elizabeth,Kline,ashley00@baldwin.org,26/06/1996,10169,Finance,M,c_sharp,True
+Douglas,Wilson,kathrynobrien@boyd-marsh.com,08/08/1995,10597,Art,F,,True
+Emily,Davidson,yjohnson@hotmail.com,29/05/2001,14752,Science,F,"c,java,c_sharp",True
+Melinda,Sullivan,kayla16@johnson-smith.com,08/01/2006,12511,Art,F,"java,R",True
+Steven,Smith,emartin@phillips.info,08/03/2001,9447,Finance,F,"python,c_sharp",True
+Brittany,Grant,johnrobbins@bender.info,05/12/1998,9041,Finance,F,"java,python",True
+Melissa,Rowe,hprice@hotmail.com,29/08/2002,9404,Finance,M,,False
+Patrick,Combs,janet25@gmail.com,06/03/1998,14512,Science,F,"R,c_sharp",False
+Larry,Walters,nashjason@lee.net,14/08/1996,14495,Software engineering,F,R,False
+Robert,Parker,tammy26@gmail.com,10/04/1998,11140,Marketing,M,java,False
+Cindy,Olson,vwade@maddox-stewart.com,04/09/1998,8292,Literature,F,python,False
+Mary,Martin,robinsonjennifer@yahoo.com,18/01/1996,9477,Marketing,M,,True
+Timothy,Dunn,smartin@li.com,28/08/1996,9020,Literature,M,c,True
+Mario,Rocha,brentnguyen@gmail.com,22/04/1995,12774,Art,M,"c,python,c_sharp",True
+Dennis,Ware,phiggins@gmail.com,14/03/2004,12241,Software engineering,M,"c++,R",False
+John,Whitaker,jennyrodriguez@yahoo.com,02/03/1995,9811,Literature,F,,False
+Amanda,Jackson,perkinsangela@gmail.com,27/07/1995,13056,Literature,M,python,True
+Ashley,Carr,belinda22@gmail.com,16/07/1999,11000,Art,F,,True
+Sarah,Page,alexdavis@pena.com,03/07/1994,8882,Science,M,"c++,php",False
+Sydney,Rogers,bryanmejia@church.net,25/10/2002,13394,Literature,M,"java,php",False
+Morgan,Garcia,jeremy56@jones-miller.com,09/04/2001,14932,Science,M,"python,java,c_sharp",False
+Andrea,Giles,johnsonkenneth@vang.com,10/05/2001,8787,Data & IA,F,c,True
+David,Diaz,pramirez@hotmail.com,15/05/2004,11079,Finance,M,,True
+Kathryn,Jones,bellaustin@yahoo.com,18/09/1999,11434,Literature,M,,False
+Michael,York,teresa94@gmail.com,04/01/1995,14097,Marketing,F,python,True
+Brandi,Henry,pedro55@gmail.com,15/02/2003,13220,Science,F,"c++,c",False
+Heather,Brown,travisvelazquez@yahoo.com,06/01/2003,14318,Data & IA,F,c++,False
+Eileen,Hodge,howard44@graham.com,24/02/2005,10882,Marketing,F,R,True
+Rebecca,Nguyen,nicole70@brooks.org,01/07/1995,12799,Science,F,"c++,c",False
+Kevin,Rogers,wilsonmisty@johnson.com,13/04/1996,10109,Data & IA,F,"c,python,c_sharp",True
+April,Fisher,sean56@gmail.com,09/07/1996,11981,Science,F,php,True
+Jonathon,West,martinezandrew@hudson.com,13/03/1996,9418,Art,M,c++,True
+Raven,Robinson,kjohnston@daniels-hunt.com,11/05/1997,14449,Art,M,"c++,c",True
+Brandon,Silva,ryanfranco@hotmail.com,23/04/1995,11157,Science,M,c_sharp,False
+Ryan,Ortiz,luiswright@hotmail.com,12/08/2002,13023,Literature,M,,True
+Dawn,Roth,brittanylee@gmail.com,08/03/1999,10043,Marketing,M,"R,java",True
+Sharon,Glass,tiffanyspencer@murray-silva.com,12/07/1997,11297,Literature,M,,False
+James,Garcia,cindygoodwin@yahoo.com,09/05/2000,13660,Data & IA,F,"c++,python",True
+Jacob,Morris,jennifer49@gmail.com,19/07/1994,9041,Software engineering,F,"c++,java",False
+Molly,Murphy,rebeccaparrish@gmail.com,06/09/2003,11398,Software engineering,F,,False
+Jermaine,Wright,omartin@marquez-mccarthy.info,03/02/1996,14701,Art,M,,False
+Colin,Rice,harrisonkatherine@mcdonald-sharp.com,20/09/2000,12119,Science,F,"python,c,php",True
+Scott,Rodriguez,bernardriley@yahoo.com,19/11/2002,9971,Finance,M,"java,c_sharp",True
+Christopher,Lowe,baguirre@house.info,24/02/1997,10922,Art,M,c++,True
+Christina,Farmer,david67@gmail.com,26/09/1996,8632,Science,F,"php,java",True
+Nathan,Frey,alexander89@gmail.com,05/02/2004,14526,Software engineering,M,"c,python,java",False
+Donald,Keith,tara45@hotmail.com,12/10/2002,9536,Art,M,php,False
+Stacy,Pacheco,richard72@oneal-nguyen.info,19/10/2002,8060,Literature,F,c++,True
+Alejandro,Calderon,janetvaldez@shaw.com,26/03/2002,10449,Data & IA,M,"python,c,R",True
+Shawn,Weiss,alex82@roth.com,16/07/2005,11915,Literature,M,"java,c++",False
+Christopher,Rose,burchrobin@yahoo.com,26/12/2005,12326,Art,M,"java,c_sharp",True
+Emma,Greene,mannrebecca@mosley-poole.com,13/10/1995,14744,Literature,F,python,False
+Robert,Koch,joshuaschmidt@smith.com,09/07/1997,13478,Science,F,"c_sharp,c++,java",True
+Christopher,Taylor,xholland@gmail.com,05/07/1996,11424,Science,F,c,False
+Jessica,Smith,fcook@gmail.com,06/12/1994,9128,Finance,M,"php,python,java",False
+Michael,Brandt,ryangeorge@yahoo.com,16/06/2006,11253,Software engineering,M,"c++,php",False
+Donald,Tucker,frazierdavid@mccullough-cox.com,06/09/2005,8173,Finance,M,"java,c++,c_sharp",False
+Robert,Moore,andrea47@allen.com,02/02/2001,14312,Finance,F,python,True
+Tom,Hernandez,spencercross@yahoo.com,25/06/2001,13040,Software engineering,M,,True
+Alan,Nguyen,jonathanrobles@bowers.com,03/07/2006,12514,Software engineering,F,"c++,R,java",False
+Mary,Mitchell,bowenstephanie@cruz.com,19/06/2005,14554,Literature,M,"python,c++,java",True
+Allison,Blake,jorge59@yahoo.com,01/03/2001,8871,Science,M,,False
+Susan,Pruitt,wsmith@thompson.org,01/07/2006,12422,Art,M,"c_sharp,c++,java",False
+Michelle,Baker,johnbryan@yahoo.com,30/11/2004,10705,Data & IA,M,,True
+Amanda,Murray,derek05@hotmail.com,15/12/2000,10767,Finance,F,c++,True
+Zachary,Gross,fjones@stewart-wang.com,10/01/2005,9303,Science,M,,True
+Amanda,Duncan,annette14@hotmail.com,13/12/2000,10498,Marketing,F,"c,python,php",False
+Ruben,Rodriguez,elizabethward@marshall.biz,28/12/2002,8332,Science,M,,True
+Jennifer,Morrison,crystalbrown@white.biz,09/05/1997,9963,Art,F,c++,False
+Alexander,Morris,mrichards@hotmail.com,09/08/1996,8874,Finance,M,"c_sharp,java,python",True
+Tyler,Stone,yhorton@yahoo.com,18/06/2006,14884,Software engineering,F,"php,c",True
+Dennis,Blevins,xatkinson@hamilton.com,12/07/2001,12165,Software engineering,M,c_sharp,False
+Joshua,Martinez,medinatiffany@montgomery.com,13/09/2000,10852,Art,F,c,False
+Phillip,Smith,ogomez@gmail.com,06/08/2000,10426,Software engineering,M,,True
+Andre,Mitchell,bakerchristopher@thompson.com,11/12/1994,13653,Software engineering,F,"R,c++",True
+Erin,Oneal,vgalvan@lopez.com,17/06/1996,10579,Marketing,F,,False
+Christopher,Boone,lwelch@yahoo.com,22/10/2002,11968,Finance,M,,True
+Brian,Hernandez,joneslinda@yahoo.com,16/01/1998,10831,Science,M,"python,java",True
+Jack,Schwartz,noah78@cruz.com,13/06/1996,10059,Data & IA,M,R,True
+Jacob,Crawford,greynolds@gmail.com,03/03/1999,12699,Literature,M,c++,True
+Aaron,Cummings,elaine41@sherman-figueroa.org,07/09/2003,14673,Marketing,F,"python,java",False
+Timothy,Lee,krichmond@mills.com,07/11/2000,11253,Art,M,,True
+Kevin,Ramos,pmontes@yahoo.com,04/03/1999,12111,Art,M,,False
+Stephanie,Peterson,gmitchell@yahoo.com,07/09/1995,9045,Art,F,,True
+Elizabeth,Ruiz,dana51@hotmail.com,31/05/2006,10963,Marketing,F,"python,c_sharp",False
+John,Harper,wheelerbrooke@yahoo.com,09/10/2003,12159,Finance,F,python,True
+Timothy,Carter,tamara21@briggs.com,05/10/2004,14867,Science,F,,True
+Tammy,Woods,renee61@hotmail.com,26/09/2004,9301,Data & IA,M,"R,c++",False
+Troy,Gonzalez,shawnscott@kirk-smith.com,30/08/2006,10864,Art,F,"php,c++",False
+David,Gould,davidoconnor@page-martin.com,30/01/2005,10605,Literature,F,"R,python,java",True
+Brenda,Brown,bfernandez@young.com,02/03/1999,14409,Science,M,"c,php,java",False
+Angelica,Simpson,lhaney@yahoo.com,06/02/1998,12014,Finance,M,,True
+Robert,Palmer,mariataylor@riley.biz,22/12/2001,14966,Literature,M,"python,php",False
+Douglas,Ritter,adam05@yahoo.com,20/05/2001,11894,Software engineering,M,"java,R",False
+Robert,Jones,loganlaura@hotmail.com,10/04/2004,14524,Art,F,"c,java",False
+Nicole,Richards,alicia94@rose.com,21/06/2001,12460,Software engineering,F,c++,False
+Lisa,Chaney,todd24@yahoo.com,06/09/2003,13783,Software engineering,M,php,False
+Alicia,Garcia,weaversandra@jones.org,26/03/2001,8501,Data & IA,M,,True
+Matthew,Mack,boydsteven@bryant-thomas.com,20/11/2002,10859,Art,F,java,True
+Christopher,Montoya,shannoncook@castillo.com,11/08/1994,14724,Marketing,F,php,True
+Savannah,Pope,jillpowers@larson.org,04/07/1996,10912,Literature,F,,True
+Karen,Allen,iturner@dixon-wilson.info,02/09/1997,13605,Science,F,"c_sharp,c",True
+Kevin,Nguyen,lbrown@gmail.com,19/03/1998,9154,Data & IA,F,"python,R",True
+Lisa,Roberts,tammy30@gmail.com,10/06/1998,9334,Literature,M,,True
+Michael,Ochoa,smithricky@noble.com,30/01/2002,14143,Finance,M,php,False
+Donald,Bowers,dianafreeman@mcdonald.info,09/08/1995,13238,Literature,M,"python,java",True
+Bianca,Smith,taylorjacob@patterson.org,21/01/1999,8038,Data & IA,F,R,True
+Dorothy,Moore,barbara91@gmail.com,08/08/1995,13648,Software engineering,F,,False
+Desiree,Hughes,leslieshah@torres-brewer.com,04/07/1994,10724,Software engineering,F,c,False
+Alexander,Phillips,misty73@morris-lewis.biz,27/09/2000,10347,Software engineering,M,php,False
+Anthony,Chapman,william87@yahoo.com,02/04/2005,9892,Literature,M,,False
+Jacqueline,Mcknight,changdiane@young.com,26/08/2003,12433,Software engineering,M,"c++,php,c",False
+Erin,Walton,nlopez@mitchell.com,30/04/2006,14782,Software engineering,M,R,True
+Heather,Newton,george14@yahoo.com,23/02/1995,11281,Art,F,"c++,php",False
+Darin,Young,griffinmatthew@pennington-rojas.info,30/01/1998,12936,Software engineering,M,R,False
+Robert,Gordon,jeffreystephenson@gmail.com,23/08/1998,9202,Literature,F,,True
+Jeffrey,Wilson,riverajohn@yahoo.com,01/06/2006,11907,Literature,M,,False
+Brandon,Spence,brent33@henson.net,15/06/1999,9286,Marketing,F,java,True
+Scott,Conrad,lisalong@gmail.com,06/04/2000,11118,Marketing,M,,False
+Diana,Garcia,fgomez@lambert-jones.com,07/06/1997,13182,Data & IA,M,php,True
+Scott,Watkins,jonathanmurray@hamilton.com,03/03/2004,12134,Science,M,c++,False
+Brittany,Hickman,brandysalazar@weeks.org,08/01/1997,11200,Software engineering,M,,False
+Mark,Brown,brodriguez@williams.com,30/07/2006,11764,Literature,M,"R,python",True
+Lisa,Hanson,evanwheeler@yahoo.com,12/04/1996,10650,Software engineering,F,c++,True
+Tamara,Haas,morenojoseph@reyes.com,20/08/2003,12790,Marketing,F,"php,java,c++",False
+Steven,Norris,veronica10@hotmail.com,15/06/2001,8277,Art,F,"c++,java,c_sharp",False
+Melissa,Davis,jreyes@hotmail.com,12/02/2003,13366,Art,F,"python,R,c",False
+Steven,Woods,bmorris@yahoo.com,25/05/1994,11007,Data & IA,M,"c_sharp,python,java",True
+Trevor,Johnson,madison59@hotmail.com,12/06/2000,11437,Marketing,F,,True
+Jerome,Pena,griffithbarry@hotmail.com,04/05/2003,11493,Science,F,c,False
+Lauren,Leonard,rirwin@duncan.com,27/12/1997,8232,Art,F,"java,php,python",False
+John,Warner,athompson@joseph.com,15/11/1995,9371,Art,M,c_sharp,False
+Kristin,Bernard,colleen84@gmail.com,17/07/1995,11665,Marketing,M,c_sharp,True
+Jo,Smith,elizabethhardy@yahoo.com,07/08/1994,11359,Science,F,java,False
+Candace,Stevens,ngomez@waller-aguirre.net,14/04/2004,9122,Science,M,php,True
+Jimmy,Sherman,laura91@harding.net,03/04/2000,9496,Data & IA,M,"python,c++",True
+Mitchell,Gibbs,tinablackburn@young-nelson.net,15/01/2000,14899,Science,M,c++,False
+Mary,Fields,samanthaguzman@yahoo.com,01/10/1995,14335,Marketing,F,"java,c_sharp",True
+Heather,Bowman,scarter@hodges-horn.com,26/01/2000,9183,Finance,M,java,True
+Jessica,Owens,aholmes@hotmail.com,01/04/1995,11604,Finance,M,"R,java",False
+Stephanie,Hill,sarah26@martinez.com,05/07/1997,12103,Data & IA,M,,True
+Michael,Miller,josephjames@lopez.org,26/12/2002,10263,Finance,M,"c,java",False
+Sandra,Crawford,jesus53@sherman.com,08/10/2002,10648,Finance,M,"java,python,c++",True
+Elizabeth,Ortiz,elainekelly@hotmail.com,21/09/1995,14106,Marketing,F,"c,R,java",False
+Jessica,James,steven22@yahoo.com,15/07/1998,14324,Data & IA,F,"python,java,c_sharp",True
+Wendy,Marshall,rachaelmoore@yahoo.com,15/10/1996,8292,Data & IA,M,,True
+John,Wilcox,danielluna@yahoo.com,17/11/1993,9547,Software engineering,M,c_sharp,False
+Troy,Johnson,angelataylor@reid-jones.net,10/02/1995,9395,Finance,M,,False
+James,Robinson,thomassullivan@gmail.com,28/08/2003,12693,Marketing,M,"java,c++,c_sharp",False
+Juan,Salazar,vgarza@yahoo.com,24/11/2001,10496,Literature,F,,True
+Derrick,Keller,jenniferdiaz@herrera-stanley.info,25/07/2005,10967,Software engineering,M,,True
+Hector,Frazier,watkinsjanet@gmail.com,01/05/2006,8810,Software engineering,M,,False
+Evelyn,Vega,lucasallen@hotmail.com,01/11/2002,9456,Science,M,R,True
+Philip,Smith,hrodgers@perez.com,27/05/2003,12551,Data & IA,F,"c++,php",False
+Tiffany,Kaiser,kevin23@rodgers.com,22/05/1995,11587,Finance,M,c++,False
+William,Rogers,ashley18@noble.com,08/01/2001,9129,Literature,M,"python,php,R",True
+Brian,Wilson,catherinesmith@roberson.info,22/12/1999,12486,Literature,F,"php,c",False
+Jennifer,Sims,jennifersmith@hernandez.com,14/10/2002,10410,Science,F,"c_sharp,c++,c",False
+Jacqueline,Davis,gramos@hotmail.com,06/03/1994,10558,Data & IA,M,"python,php,R",False
+Patricia,Hardy,ronaldramirez@gmail.com,11/06/1994,9818,Software engineering,M,"java,c++",False
+William,Garcia,michaelnicholson@gmail.com,03/10/1996,8527,Science,M,c++,True
+Caleb,Villegas,jgarza@hotmail.com,16/09/2001,14894,Art,M,"c,c_sharp",False
+Richard,Nelson,joshuanguyen@collier-smith.com,04/01/2002,13313,Science,M,,False
+Jessica,Pierce,cherylbrennan@smith.com,17/01/1997,13896,Software engineering,M,c++,False
+Chris,Kent,smithsarah@hotmail.com,08/10/2005,14904,Art,M,,True
+Sandra,Hill,pblankenship@gmail.com,17/07/2001,12674,Art,F,"c,c++",False
+Troy,Mendez,thomaskevin@schmidt.com,18/09/2001,14610,Literature,M,"php,python",False
+Angela,Montoya,bradevans@miller-miller.org,18/10/2003,8408,Literature,M,"php,c_sharp",False
+Juan,Hansen,virginia49@hotmail.com,18/03/2005,13762,Data & IA,M,python,False
+Michael,Powell,christopher59@butler-ramsey.com,25/02/1997,11085,Literature,F,php,True
+Kelly,Johnson,barrymary@yahoo.com,22/12/1996,11070,Marketing,M,,True
+Elizabeth,Taylor,justinanderson@hotmail.com,01/01/1996,8345,Art,F,,False
+Allison,Miller,davidalexander@hotmail.com,13/04/1995,14164,Art,F,R,False
+Edwin,Hansen,thudson@crane.com,23/03/1994,11358,Software engineering,M,,True
+Jesse,King,carralexander@gmail.com,17/11/1996,8630,Data & IA,M,"python,c",True
+Peter,Robinson,vbrooks@martin-daniels.net,26/01/1999,13932,Art,M,"c_sharp,R",False
+Jason,Martinez,connorharris@hotmail.com,12/08/2006,9875,Science,F,"R,c",False
+Ricky,Mendoza,kkline@ramos.biz,25/08/2001,11683,Literature,M,"R,python",False
+Brandon,Harris,tracey52@reyes-washington.com,18/01/2000,10870,Software engineering,M,"c_sharp,php,R",False
+Mark,Johnson,reynoldsjustin@stewart-hunt.com,04/02/1997,12625,Data & IA,F,"c,java",True
+Elizabeth,Flynn,paulliu@yahoo.com,13/04/1994,10026,Science,F,,False
